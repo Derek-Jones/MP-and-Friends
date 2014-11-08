@@ -13,16 +13,8 @@ base_url="https://api.opencorporates.com/v0.4/"
 # Format of birth date 1960-12-05
 ocomp_date="%Y-%m-%d"
 
-
-get_company_details=function(company_num)
-{
-comp_info=getURL(paste0(base_url, "companies/gb/", company_num, "?api_token=5xZxWQiuYXpx76HoAXPL"))
-
-t=fromJSON(comp_info)
-
-return(t)
-}
-
+# Need to get one of these from Open Corporates
+api_token="5xZxWQiuYXpx76HoAXPL"
 
 # Details about all officers having a given name
 get_officer_details=function(name_str, page_num=1)
@@ -31,7 +23,7 @@ name_url=curlEscape(name_str)
 comp_info=getURL(paste0(base_url, "officers/search?q=", name_url,
 			"&per_page=100&page=", page_num,
 #			"&per_page=3&page=", page_num,
-			"&jurisdiction_code=gb&api_token=5xZxWQiuYXpx76HoAXPL"))
+			"&jurisdiction_code=gb&api_token=", api_token))
 
 # https://api.opencorporates.com/v0.4/officers/search?q=diane+abbott&jurisdiction_code=gb
 
@@ -70,6 +62,11 @@ date_filter=function(direct_list, birth_day)
 {
 # print(direct_list)
 dl=sapply(direct_list$results$officers, function(X) same_birth(X, birth_day))
+
+# Remove NULL elements from list
+dl[sapply(dl, is.null)]=NULL
+
+return(dl)
 }
 
 
@@ -99,5 +96,30 @@ if (off_details[[1]]$total_pages > 1)
    }
 }
 
-t=directorships("diane abbott", "1953-09-27")
+# Return list of company directors for company_num
+company_directors=function(company_num)
+{
+comp_info=getURL(paste0(base_url, "companies/gb/", company_num, "?api_token=", api_token))
+
+ct=fromJSON(comp_info)
+
+t=ct$results$company$officers
+
+return(t)
+}
+
+
+co_directors=function(director_list)
+{
+q=as.character(t[[4]]$officer$company[[3]])
+
+
+t$results$company$officers
+}
+
+
+# da=directorships("diane abbott", "1953-09-27")
+
+t=company_directors("08805893")
+
 

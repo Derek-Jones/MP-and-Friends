@@ -85,7 +85,7 @@ birth_day=as.Date(birth_day, format=ocomp_date)
 
 # print(birth_day)
 off_details=get_officer_details(name_str)
-t_off <<- off_details
+# t_off <<- off_details
 direct_list=date_filter(off_details, birth_day)
 
 return(direct_list)
@@ -111,15 +111,20 @@ return(t)
 
 co_directors=function(director_list)
 {
-q=as.character(t[[4]]$officer$company[[3]])
+co_d=lapply(director_list,
+		function(df)
+		{
+		comp_num=as.character(df$officer$company[[3]])
+		t=company_directors(comp_num)
+		return(t)
+		})
 
-
-t$results$company$officers
 }
 
 
+# Get Diane Abbott's directorships
 # da=directorships("diane abbott", "1953-09-27")
-
-t=company_directors("08805893")
+# then find the co-directors of these companies
+# co_da=co_directors(da)
 
 

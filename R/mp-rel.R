@@ -1,0 +1,103 @@
+# mp-rel.R,  8 Nov 14
+#
+
+library("igraph")
+library("RCurl")
+library("RJSONIO")
+
+# base_url="https://api.opencorporates.com/companies/gb/"
+
+# Where we get our GB company house data
+base_url="https://api.opencorporates.com/v0.4/"
+
+# Format of birth date 1960-12-05
+ocomp_date="%Y-%m-%d"
+
+
+get_company_details=function(company_num)
+{
+comp_info=getURL(paste0(base_url, "companies/gb/", company_num, "?api_token=5xZxWQiuYXpx76HoAXPL"))
+
+t=fromJSON(comp_info)
+
+return(t)
+}
+
+
+# Details about all officers having a given name
+get_officer_details=function(name_str, page_num=1)
+{
+name_url=curlEscape(name_str)
+comp_info=getURL(paste0(base_url, "officers/search?q=", name_url,
+			"&per_page=100&page=", page_num,
+#			"&per_page=3&page=", page_num,
+			"&jurisdiction_code=gb&api_token=5xZxWQiuYXpx76HoAXPL"))
+
+# https://api.opencorporates.com/v0.4/officers/search?q=diane+abbott&jurisdiction_code=gb
+
+t=fromJSON(comp_info)
+
+return(t)
+}
+
+# da=get_company_details(02152995)
+# dj=get_officer_details("diane abbott")
+
+# Return data frame if birth days match
+same_birth=function(df, birth_day)
+{
+# print(df)
+# print("same birth")
+# print(str(df$officer$date_of_birth))
+# print(class(df$officer$date_of_birth))
+# print(df$officer$date_of_birth)
+# print(unlist(df$officer$date_of_birth))
+# print(str(unlist(df$officer$date_of_birth)))
+# blah()
+if (is.null(df$officer$date_of_birth))
+   return(NULL)
+if (as.Date(df$officer$date_of_birth, format=ocomp_date) == birth_day)
+   {
+#   print(df)
+   return(df)
+   }
+return(NULL)
+}
+
+
+# Return list of all people sharing birth day
+date_filter=function(direct_list, birth_day)
+{
+# print(direct_list)
+dl=sapply(direct_list$results$officers, function(X) same_birth(X, birth_day))
+}
+
+
+process_page=function(name_str, birth_day, page_num=1)
+{
+off_details=get_officer_details(name_str)
+direct_list=date_filter(off_details, birth_day)
+
+return(direct_list)
+}
+
+# Return list of directorships for person having given name and birth day
+directorships=function(name_str, birth_day)
+{
+birth_day=as.Date(birth_day, format=ocomp_date)
+
+# print(birth_day)
+off_details=get_officer_details(name_str)
+t_off <<- off_details
+direct_list=date_filter(off_details, birth_day)
+
+return(direct_list)
+
+if (off_details[[1]]$total_pages > 1)
+   {
+   t=vapply(2:off_det$total_pages, function(X) process_page(name_str, birth_day, X))
+   }
+}
+
+t=directorships("diane abbott", "1953-09-27")
+

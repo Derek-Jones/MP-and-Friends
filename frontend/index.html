@@ -23,7 +23,6 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <p>Hello world! This is HTML5 Boilerplate.</p>
 
         <div ng-app="openDataApp" ng-controller="openDataCtrl">
             <h3>hello {{model.title}} yeah</h3>
@@ -49,6 +48,7 @@
                             self.postcode="ox145hw";
                             self.constituency="";
                             self.mpList=[];
+                            self.mpInfo = null;
 
                             self.postcodeSearch = function(){
 
@@ -95,6 +95,7 @@
 
                                         if(value.constituency.label._value==self.constituency){
                                             console.log(value);
+                                            self.mpInfo = value;
                                         }
                                     }
                                     catch(err) {
@@ -111,7 +112,7 @@
                             $scope.model = new openDataViewModel();
                             $scope.model.mpSearch();
                             $scope.model.postcodeSearch();
-                            console.log("test");
+     
                             $scope.$digest();
                         });
 

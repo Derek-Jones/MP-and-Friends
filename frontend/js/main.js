@@ -116,12 +116,14 @@ angular.module("openDataApp", ['ui.bootstrap'])
                 });
                 httpRequest.success(function (data, status, headers, config) {
                     self.mpList = data;
-                    //	console.log(data);
 
                 });
 
             }
 
+            self.loadChartByFullName = function () {
+                alert(self.fullName.toLocaleLowerCase().replace(" ","_"));
+            }
             self.mpFilter = function () {
 
                 //	console.log(self.mpList.result.items[0].constituency.label._value);

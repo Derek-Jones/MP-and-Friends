@@ -58,6 +58,25 @@ for (i in 1:nrow(mps.metadata)) {
 
 # save(directors, file = "directors.RData")
 
+# directors1 <- directors[1:(length(directors)/2)]
+# directors2 <- directors[((length(directors)/2) + 1):length(directors)]
+# save(directors1, file = "directors1.RData")
+# save(directors2, file = "directors2.RData")
+
+# codirectors <- co_directors(directors)
+
+get_codirectors(directors) {
+  codirectors <- NA
+  for (i in 1:length(directors1)) {
+    if (!is.na(directors[[i]])) {
+      codirectors <- c(codirectors, co_directors(directors1))
+    }
+  }
+  return(codirectors)
+}
+
+codirectors <- get_codirectors(directors1)
+
 directors.df <- data.frame(matrix(unlist(directors), nrow = length(directors), byrow = T))
 
 # save(directors.df, file = "mp_directors.RData")

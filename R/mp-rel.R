@@ -32,7 +32,7 @@ t=fromJSON(comp_info)
 return(t)
 }
 
-# da=get_company_details(02152995)
+# ac=get_company_details(02152995)
 # dj=get_officer_details("diane abbott")
 
 # Return data frame if birth days match
@@ -72,7 +72,7 @@ return(dl)
 
 process_page=function(name_str, birth_day, page_num=1)
 {
-off_details=get_officer_details(name_str)
+off_details=get_officer_details(name_str, page_num)
 direct_list=date_filter(off_details, birth_day)
 
 return(direct_list)
@@ -88,12 +88,15 @@ off_details=get_officer_details(name_str)
 # t_off <<- off_details
 direct_list=date_filter(off_details, birth_day)
 
-return(direct_list)
+# return(direct_list)
 
-if (off_details[[1]]$total_pages > 1)
+if (off_details$results$total_pages > 1)
    {
-   t=vapply(2:off_det$total_pages, function(X) process_page(name_str, birth_day, X))
+   t=lapply(2:off_details$results$total_pages, function(X) process_page(name_str, birth_day, X))
+   t=c(direct_list, t)
+   return(unlist(t, recursive=FALSE))
    }
+return(direct_list)
 }
 
 # Return list of company directors for company_num
@@ -103,7 +106,17 @@ comp_info=getURL(paste0(base_url, "companies/gb/", company_num, "?api_token=", a
 
 ct=fromJSON(comp_info)
 
-t=ct$results$company$officers
+all_officers=ct$results$company$officers
+t=lapply(all_officers,
+		function(df)
+		{
+		df$officer$inactive=ct$results$company$inactive
+		if (length(ct$results$company$industry_codes) > 0)
+		   df$officer$industry_code=ct$results$company$industry_codes[[1]]$industry_code[3]
+		else
+		   df$officer$industry_code="NA"
+		return(df)
+		})
 
 return(t)
 }
@@ -124,6 +137,7 @@ co_d=lapply(director_list,
 
 # Get Diane Abbott's directorships
 # da=directorships("diane abbott", "1953-09-27")
+# dc=directorships("david cameron", "1966-10-09")
 # then find the co-directors of these companies
 # co_da=co_directors(da)
 

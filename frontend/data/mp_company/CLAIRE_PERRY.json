@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "CLAIRE_PERRY",
+ "group": 1
+},
+{
+ "name": "INSPIRED FUTURES (BRADFORD) LTD",
+ "group": 2
+}
+,
+{
+ "name": "VIE FINANCE LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

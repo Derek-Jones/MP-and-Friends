@@ -1,0 +1,140 @@
+{
+ "nodes": [
+{
+ "name": "JEREMY_LEFROY",
+ "group": 1
+},
+{
+ "name": "SCHLUTER LTD",
+ "group": 2
+}
+,
+{
+ "name": "KILIMO LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE CONSERVATIVE CHRISTIAN FELLOWSHIP LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "TRADENOTAID.COM LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "TWIN", "TWIN",
+ "group": 2
+}
+,
+{
+ "name": "AFRICAN ORGANIC PRODUCE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "ADVANCED BIO-EXTRACTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "TWIN TRADING LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "AFRICAN SPECIALITY PRODUCTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "NEWCASTLE UNDER LYME COMMUNITY AND VOLUNTARY SUPPORT",
+ "group": 2
+}
+,
+{
+ "name": "PAW LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "TRANSPARENT COFFEE LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+}
+]
+}

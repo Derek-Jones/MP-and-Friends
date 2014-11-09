@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "STEPHEN_WILLIAMS",
+ "group": 1
+},
+{
+ "name": "HULL FC RUGBY COMMUNITY SPORTS & EDUCATION FOUNDATION",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,129 @@
+{
+ "nodes": [
+{
+ "name": "SHEILA_GILMORE",
+ "group": 1
+},
+{
+ "name": "SOUTH EDINBURGH AMENITIES GROUP",
+ "group": 2
+}
+,
+{
+ "name": "CALEDONIA YOUTH",
+ "group": 2
+}
+,
+{
+ "name": "WOMEN ONTO WORK",
+ "group": 2
+}
+,
+{
+ "name": "NBFA ASSISTING THE ELDERLY",
+ "group": 2
+}
+,
+{
+ "name": "PARC CRAIGMILLAR LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CITY IN VIEW LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CAPITAL CITY HOMES",
+ "group": 2
+}
+,
+{
+ "name": "IMAGINATE", "IMAGINATE",
+ "group": 2
+}
+,
+{
+ "name": "THE SOUTH EDINBURGH PARTNERSHIP LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MALDEN MITCHAM PROPERTIES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "EDI (INDUSTRIAL) LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+]
+}

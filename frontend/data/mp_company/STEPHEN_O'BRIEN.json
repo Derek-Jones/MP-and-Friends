@@ -1,0 +1,437 @@
+{
+ "nodes": [
+{
+ "name": "STEPHEN_O'BRIEN",
+ "group": 1
+},
+{
+ "name": "CANNOCK RECYCLING LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MONIER (UK) HOLDINGS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "HEREFORD RECYCLING LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "EDEN RESEARCH PLC",
+ "group": 2
+}
+,
+{
+ "name": "CEMENT DIRECT LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "STEETLEY CONSTRUCTION MATERIALS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "REDLAND READYMIX HOLDINGS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "TUNNEL BUILDING PRODUCTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "UNITED FIRECLAY PRODUCTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LAFARGE LEASING LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "AQUAMARINE TRANSPORTATION LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MALARIA CONSORTIUM",
+ "group": 2
+}
+,
+{
+ "name": "STEETLEY PROPERTIES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "IVCC", "IVCC",
+ "group": 2
+}
+,
+{
+ "name": "TYRONE POROTON (HOLDINGS) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "STEETLEY QUARRY PRODUCTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LAFARGE TARMAC SECRETARIES (UK) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "REDLAND ENGINEERING LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MONIER TECHNICAL CENTRE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "T.P. (HOLDINGS) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "FLY EUROPEAN AIRLINES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "OBSERVE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE SMALL BUSINESS RESEARCH TRUST",
+ "group": 2
+}
+,
+{
+ "name": "MOORE & SONS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LAFARGE INTERNATIONAL HOLDINGS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "ALL BUSINESS SYSTEMS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "REDLAND LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LIVERPOOL SCHOOL OF TROPICAL MEDICINE",
+ "group": 2
+}
+,
+{
+ "name": "CITY OF LONDON SINFONIA LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "AD (RWD) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MONIER (CHINA) HOLDINGS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "SUSSEX & DORKING BRICK COMPANIES LIMITED(THE)",
+ "group": 2
+}
+,
+{
+ "name": "DUNGANNON BRICK COMPANY LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "ANYMIX LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LAFARGE REDLAND READYMIX LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "DEMOCRACY FOR YOUNG PEOPLE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "REDLAND PROPERTY HOLDINGS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LAFARGE TARMAC DIRECTORS (UK) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "PLASTERBOARD DIRECT LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 14,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 15,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 16,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 17,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 18,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 19,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 20,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 21,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 22,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 23,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 24,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 25,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 26,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 27,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 28,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 29,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 30,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 31,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 32,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 33,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 34,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 35,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 36,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 37,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 38,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 39,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "MARK_SPENCER",
+ "group": 1
+},
+{
+ "name": "FIRST BASE-LONDON",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

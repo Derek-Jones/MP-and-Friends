@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "LUCY_POWELL",
+ "group": 1
+},
+{
+ "name": "SOUTH WEST FILM AND TELEVISION ARCHIVE LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,41 @@
+{
+ "nodes": [
+{
+ "name": "JOHN_LANCASTER",
+ "group": 1
+},
+{
+ "name": "COUNTDOWN FIREWORKS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CITRUS HOTELS MANAGEMENT LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "KIMBOLTON FIREWORKS (RETAIL) LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+]
+}

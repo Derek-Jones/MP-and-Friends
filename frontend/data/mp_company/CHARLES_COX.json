@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "CHARLES_COX",
+ "group": 1
+},
+{
+ "name": "THE ASSOCIATION FOR PSYCHODYNAMIC PRACTICE AND COUNSELLING IN ORGANISATIONAL SETTINGS",
+ "group": 2
+}
+,
+{
+ "name": "THOMAS MORE LEGAL SERVICES LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

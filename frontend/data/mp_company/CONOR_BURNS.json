@@ -1,0 +1,85 @@
+{
+ "nodes": [
+{
+ "name": "CONOR_BURNS",
+ "group": 1
+},
+{
+ "name": "ALUM COURT (BOURNEMOUTH) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "1ST INTERNATIONAL LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "FORTUNE COOKIE (UK) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE TENNIS FOUNDATION",
+ "group": 2
+}
+,
+{
+ "name": "TRG EMAP DORMANT 4 LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "POLICY RESEARCH CENTRE FOR BUSINESS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "SAFEWISE", "SAFEWISE",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+]
+}

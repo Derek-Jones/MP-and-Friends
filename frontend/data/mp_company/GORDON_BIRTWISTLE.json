@@ -1,0 +1,63 @@
+{
+ "nodes": [
+{
+ "name": "GORDON_BIRTWISTLE",
+ "group": 1
+},
+{
+ "name": "P.& J. ENGINEERING SUPPLIES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CALICO HOMES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "BAKER DEARING EDUCATIONAL TRUST",
+ "group": 2
+}
+,
+{
+ "name": "BBL FOUNDATION",
+ "group": 2
+}
+,
+{
+ "name": "STUART ENGINEERING CO. (ACCRINGTON) LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+]
+}

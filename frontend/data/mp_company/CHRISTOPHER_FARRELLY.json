@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "CHRISTOPHER_FARRELLY",
+ "group": 1
+},
+{
+ "name": "CONSERVATIVE MAINSTREAM (PROPERTIES) LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

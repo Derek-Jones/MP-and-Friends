@@ -1,0 +1,52 @@
+{
+ "nodes": [
+{
+ "name": "RUSHANARA_ALI",
+ "group": 1
+},
+{
+ "name": "TOWER HAMLETS SUMMER EDUCATION LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "",
+ "group": 2
+}
+,
+{
+ "name": "PAUL HAMLYN FOUNDATION",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+]
+}

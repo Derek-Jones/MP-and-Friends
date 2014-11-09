@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "STEPHEN_HEPBURN",
+ "group": 1
+},
+{
+ "name": "SILVERWOOD FORESTRY LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

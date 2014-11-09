@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "EMILY_THORNBERRY",
+ "group": 1
+},
+{
+ "name": "CITYVISION BELFAST",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

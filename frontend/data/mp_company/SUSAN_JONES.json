@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "SUSAN_JONES",
+ "group": 1
+},
+{
+ "name": "THE MEADOWHALL EDUCATION CENTRE",
+ "group": 2
+}
+,
+{
+ "name": "ESTMANCO (58/60 ST. GEORGE'S ROAD, SOUTHWARK) LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,52 @@
+{
+ "nodes": [
+{
+ "name": "JAMES_PAICE",
+ "group": 1
+},
+{
+ "name": "THE KING'S SCHOOL, ELY",
+ "group": 2
+}
+,
+{
+ "name": "PLYMTREE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "R K L GEOLOGICAL SERVICES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "GAME AND WILDLIFE CONSERVATION TRUST",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,63 @@
+{
+ "nodes": [
+{
+ "name": "NADINE_DORRIES",
+ "group": 1
+},
+{
+ "name": "DOMICILIAS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "WORKPLACE NURSERIES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LATE AT NIGHT LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CONOR BURNS BOURNEMOUTH TRUST",
+ "group": 2
+}
+,
+{
+ "name": "AVERBROOK LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+]
+}

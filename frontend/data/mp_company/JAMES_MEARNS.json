@@ -1,0 +1,52 @@
+{
+ "nodes": [
+{
+ "name": "JAMES_MEARNS",
+ "group": 1
+},
+{
+ "name": "CAREERS SERVICES NATIONAL ASSOCIATION",
+ "group": 2
+}
+,
+{
+ "name": "RENEW NORTH EAST",
+ "group": 2
+}
+,
+{
+ "name": "THE HENRY JACKSON SOCIETY",
+ "group": 2
+}
+,
+{
+ "name": "THE NATIONAL ADVISORY COUNCIL FOR CAREERS AND EDUCATIONAL GUIDANCE",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+]
+}

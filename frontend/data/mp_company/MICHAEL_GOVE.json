@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "MICHAEL_GOVE",
+ "group": 1
+},
+{
+ "name": "INNOVATION BIRMINGHAM LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

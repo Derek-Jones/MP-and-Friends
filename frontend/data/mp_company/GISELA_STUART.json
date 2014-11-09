@@ -1,0 +1,52 @@
+{
+ "nodes": [
+{
+ "name": "GISELA_STUART",
+ "group": 1
+},
+{
+ "name": "THE BRITISH ASSOCIATION FOR CENTRAL AND EASTERN EUROPE",
+ "group": 2
+}
+,
+{
+ "name": "KONIGSWINTER", "KONIGSWINTER",
+ "group": 2
+}
+,
+{
+ "name": "MOWTHORPE (UK) LTD",
+ "group": 2
+}
+,
+{
+ "name": "80 DENBIGH STREET LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+]
+}

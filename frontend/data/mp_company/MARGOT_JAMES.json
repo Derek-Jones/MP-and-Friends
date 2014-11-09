@@ -1,0 +1,107 @@
+{
+ "nodes": [
+{
+ "name": "MARGOT_JAMES",
+ "group": 1
+},
+{
+ "name": "YOUNG VIC COMPANY(THE)",
+ "group": 2
+}
+,
+{
+ "name": "REDHILL SCHOOL",
+ "group": 2
+}
+,
+{
+ "name": "OGILVY 4D LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "OGILVY HEALTHWORLD EUROPE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "OGILVY HEALTHWORLD UK LTD",
+ "group": 2
+}
+,
+{
+ "name": "UNITED KINGDOM - JAPAN 21ST CENTURY GROUP",
+ "group": 2
+}
+,
+{
+ "name": "OGILVY HEALTH PR LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "OGILVY HEALTH PR LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "ONE TO ONE HEALTH LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+]
+}

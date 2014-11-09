@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_MUNDELL",
+ "group": 1
+},
+{
+ "name": "THE QUEEN MOTHER'S MEMORIAL FUND FOR SCOTLAND",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

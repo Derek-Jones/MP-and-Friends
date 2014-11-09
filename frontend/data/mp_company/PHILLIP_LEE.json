@@ -1,0 +1,41 @@
+{
+ "nodes": [
+{
+ "name": "PHILLIP_LEE",
+ "group": 1
+},
+{
+ "name": "CHILTERN TRADING LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "NPS NORTH WEST LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "BLUE CHIP BEACONSFIELD LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+]
+}

@@ -25,7 +25,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
             self.searchInput = "";
 
             self.postcodeSearch = function () {
-
+                $("#progressbar").show();
                 str = self.postcode;
                 str = str.replace(/\s+/g, '');
 
@@ -51,7 +51,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
             }
 
             self.loadGraph = function () {
-                d3LoadData("data/mps.json");
+                d3LoadData("data/new_mps.json");
             }
 
             self.searchMP = function () {
@@ -98,7 +98,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
 
                             console.log( self);
                             self.loadGraph();
-
+                            $("#progressbar").hide();
                         }
                     }
                     catch (err) {
@@ -148,7 +148,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
 
                             console.log( self);
                             self.loadGraph();
-
+                            $("#progressbar").hide();
                         }
                     }
                     catch (err) {

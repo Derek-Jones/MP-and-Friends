@@ -39,25 +39,29 @@
         <div class="session-title">MP & FRIENDS</div>
         <div class="find-data-ctrl btn-group">
             <label class="btn btn-primary ctrl-btn ctrl-btn-1 ctrl-btn-by-postcode" ng-model="radioModel"
-                   btn-radio="'postcode'">BY POSTCODE</label>
-            <label class="btn btn-primary ctrl-btn ctrl-btn-2 ctrl-btn-by-MP" ng-model="radioModel" btn-radio="'mp'">BY
+                   btn-radio="'postcode'" ng-click="model.postcodeEnter()">BY POSTCODE</label>
+            <label class="btn btn-primary ctrl-btn ctrl-btn-2 ctrl-btn-by-MP" ng-model="radioModel" btn-radio="'mp'" ng-click="model.mpEnter()">BY
                 MP</label>
         </div>
         <div class="search-box">
             <div class="search-box-inner"><input type="text" name="search-box-input" id="search-box-input"
-                                                 ng-model="model.searchInput"/></div>
+                                                 ng-model="model.searchInput" ng-show="model.isPostcode"/>
+                <input type="text" placeholder="Search MP"
+                       ng-model="model.autoCompleteFullName"
+                       typeahead="i as i.fullName for i in model.mpList.result.items | filter:$viewValue | limitTo:10"
+                       typeahead-min-length='1'
+                       typeahead-on-select='onSelectPart($item, $model.fullName, $label)'
+                       typeahead-template-url="customTemplate.html" style="width:350px;" ng-show="!model.isPostcode">
+            </div>
             <div class="search-box-btn">
                 <div class="glyphicon glyphicon-search" ng-click="model.search()"></div>
             </div>
         </div>
 
     </div>
-    {{model.fullName}}
-    {{model.birthDate}}
-    {{model.constituency}}
-    {{model.party}}
-    {{model.homePage}}
-    {{model.twitter}}
+
+
+
     <div class="content-graph content-wrapper">
         <div id="chartCanvas">
 
@@ -65,8 +69,20 @@
         </div>
         <div class="content-graph-inner"></div>
     </div>
+
+    {{model.fullName}}
+    {{model.birthDate}}
+    {{model.constituency}}
+    {{model.party}}
+    {{model.homePage}}
+    {{model.twitter}}
 </div>
 <script src="js/chart.js"></script>
 
+<script type="text/ng-template" id="customTemplate.html">
+    <a>
+        <span bind-html-unsafe="match.label | typeaheadHighlight:query"></span>
+    </a>
+</script>
 </body>
 </html>

@@ -18,6 +18,8 @@ angular.module("openDataApp", ['ui.bootstrap'])
             self.homePage = "";
             self.party = "";
             self.twitter = "";
+            self.autoCompleteFullName = "";
+            self.isPostcode=true;
 
 
             self.searchInput = "";
@@ -40,10 +42,22 @@ angular.module("openDataApp", ['ui.bootstrap'])
                 });
 
             }
+            self.mpEnter = function () {
+                self.isPostcode = false;
+            }
+
+            self.postcodeEnter = function () {
+                self.isPostcode = true;
+            }
+
             self.loadGraph = function () {
                 d3LoadData("data/mps.json");
             }
 
+            self.searchMP = function () {
+
+                alert(self.autoCompleteFullName.fullName);
+            }
             self.search = function () {
 
                 if ($scope.radioModel == 'postcode') {
@@ -53,8 +67,44 @@ angular.module("openDataApp", ['ui.bootstrap'])
 
                 } else {
                     console.log("mp");
-                    console.log(self.postcode);
+                    self.fullName = self.autoCompleteFullName.fullName;
+                    self.mpFullNameFilter();
+
                 }
+            }
+
+            self.mpFullNameFilter = function(){
+                //	console.log(self.mpList.result.items[0].constituency.label._value);
+                console.log(self.mpList.result.items.length);
+                angular.forEach(self.mpList.result.items, function (value, key) {
+
+
+                    try {
+
+                        if (value.fullName.trim() == self.fullName.trim()) {
+                            //console.log(value);
+                            self.mpInfo = value;
+                            //self.searchInput = value.fullName;
+
+
+                            self.birthDate = value.birthDate._value;
+                            self.constituency = value.constituency.label._value;
+                            self.fullName = value.fullName;
+                            self.familyName = value.familyName;
+                            self.givenName = value.givenName;
+                            self.homePage = value.homePage;
+                            self.party = value.party;
+                            self.twitter = value.twitter;
+
+                            console.log( self);
+                            self.loadGraph();
+
+                        }
+                    }
+                    catch (err) {
+
+                    }
+                });
             }
 
             self.mpSearch = function () {
@@ -84,7 +134,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
                         if (value.constituency.label._value.trim() == self.constituency.trim()) {
                             //console.log(value);
                             self.mpInfo = value;
-                            self.searchInput = value.fullName;
+                            //self.searchInput = value.fullName;
 
 
                             self.birthDate = value.birthDate._value;

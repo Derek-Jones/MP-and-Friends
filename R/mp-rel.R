@@ -85,7 +85,7 @@ birth_day=as.Date(birth_day, format=ocomp_date)
 
 # print(birth_day)
 off_details=get_officer_details(name_str)
-t_off <<- off_details
+# t_off <<- off_details
 direct_list=date_filter(off_details, birth_day)
 
 # return(direct_list)
@@ -106,7 +106,17 @@ comp_info=getURL(paste0(base_url, "companies/gb/", company_num, "?api_token=", a
 
 ct=fromJSON(comp_info)
 
-t=ct$results$company$officers
+all_officers=ct$results$company$officers
+t=lapply(all_officers,
+		function(df)
+		{
+		df$officer$inactive=ct$results$company$inactive
+		if (length(ct$results$company$industry_codes) > 0)
+		   df$officer$industry_code=ct$results$company$industry_codes[[1]]$industry_code[3]
+		else
+		   df$officer$industry_code="NA"
+		return(df)
+		})
 
 return(t)
 }

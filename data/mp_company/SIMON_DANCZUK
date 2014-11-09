@@ -1,0 +1,28 @@
+{
+ "nodes": [
+{
+ "name": "SIMON_DANCZUK",
+ "group": 1
+},
+{
+ "name": "ASSOCIATION OF METROPOLITAN AUTHORITIES (PROPERTIES) LIMITED",
+ "group": 2
+},
+{
+ "name": "CIRCLE ANGLIA FOUNDATION LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+]
+}

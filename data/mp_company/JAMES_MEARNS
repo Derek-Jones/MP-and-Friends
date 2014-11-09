@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "JAMES_MEARNS",
+ "group": 1
+},
+{
+ "name": "80 DENBIGH STREET LIMITED",
+ "group": 2
+},
+{
+ "name": "THE BRITISH ASSOCIATION FOR CENTRAL AND EASTERN EUROPE",
+ "group": 2
+},
+{
+ "name": "KONIGSWINTER", "KONIGSWINTER",
+ "group": 2
+},
+{
+ "name": "THE HENRY JACKSON SOCIETY",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

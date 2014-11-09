@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "JOHN_MANN",
+ "group": 1
+},
+{
+ "name": "MORDEN ESTATES COMPANY LIMITED",
+ "group": 2
+},
+{
+ "name": "AMF HOLDINGS LIMITED",
+ "group": 2
+},
+{
+ "name": "ANDERSON MANOR FARM",
+ "group": 2
+},
+{
+ "name": "ACF CO HOLDINGS LIMITED",
+ "group": 2
+},
+{
+ "name": "ABBOT'S COURT FARM(CHARBOROUGH)",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

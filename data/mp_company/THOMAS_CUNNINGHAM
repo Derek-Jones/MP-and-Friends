@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "THOMAS_CUNNINGHAM",
+ "group": 1
+},
+{
+ "name": "LLANELLI RAILWAY GOODS SHED TRUST",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

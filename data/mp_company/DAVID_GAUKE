@@ -1,0 +1,28 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_GAUKE",
+ "group": 1
+},
+{
+ "name": "GREAT BRITAIN-CHINA CENTRE(THE)",
+ "group": 2
+},
+{
+ "name": "CHIPPENHAM CONSULTANTS LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+]
+}

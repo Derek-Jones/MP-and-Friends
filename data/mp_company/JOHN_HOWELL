@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "JOHN_HOWELL",
+ "group": 1
+},
+{
+ "name": "ANSBURY", "ANSBURY",
+ "group": 2
+},
+{
+ "name": "UNITED YOUTH DEVELOPMENT ORGANIZATION",
+ "group": 2
+},
+{
+ "name": "DORSET BUILDING PRESERVATION TRUST COMPANY LIMITED(THE)",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

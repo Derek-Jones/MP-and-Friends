@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "ROBERT_BUCKLAND",
+ "group": 1
+},
+{
+ "name": "OLDHAM COMMUNITY ACCOUNTANCY SERVICE",
+ "group": 2
+},
+{
+ "name": "ELECTRONIC IMMIGRATION NETWORK",
+ "group": 2
+},
+{
+ "name": "PEOPLE'S VOICE MEDIA",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,28 @@
+{
+ "nodes": [
+{
+ "name": "JULIAN_LEWIS",
+ "group": 1
+},
+{
+ "name": "TRELYA", "TRELYA",
+ "group": 2
+},
+{
+ "name": "HAYLE HARBOUR TRUST LTD",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+]
+}

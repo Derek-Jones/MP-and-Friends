@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_WILLETTS",
+ "group": 1
+},
+{
+ "name": "EREWASH PARTNERSHIP LIMITED",
+ "group": 2
+},
+{
+ "name": "THE DERBY & SANDIACRE CANAL TRUST LIMITED",
+ "group": 2
+},
+{
+ "name": "LANDIS PROPERTY SERVICES LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

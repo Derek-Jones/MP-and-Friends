@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "HAZEL_BLEARS",
+ "group": 1
+},
+{
+ "name": "STEELE & CO. (NOMINEES) LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

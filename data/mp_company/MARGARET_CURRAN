@@ -1,0 +1,82 @@
+{
+ "nodes": [
+{
+ "name": "MARGARET_CURRAN",
+ "group": 1
+},
+{
+ "name": "UNITED KINGDOM - JAPAN 21ST CENTURY GROUP",
+ "group": 2
+},
+{
+ "name": "BYRE THEATRE OF ST. ANDREWS LTD. (THE)",
+ "group": 2
+},
+{
+ "name": "TRADE OUT OF POVERTY",
+ "group": 2
+},
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+},
+{
+ "name": "THE SCOTTISH AMERICAN INVESTMENT COMPANY P L C",
+ "group": 2
+},
+{
+ "name": "AIR LEAGUE ENTERPRISES LIMITED",
+ "group": 2
+},
+{
+ "name": "CITIGATE PUBLIC AFFAIRS LIMITED",
+ "group": 2
+},
+{
+ "name": "THE LONDON MARATHON CHARITABLE TRUST LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+]
+}

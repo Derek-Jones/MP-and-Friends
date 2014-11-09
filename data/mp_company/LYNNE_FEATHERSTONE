@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "LYNNE_FEATHERSTONE",
+ "group": 1
+},
+{
+ "name": "BLOCK 10 ASHLEY GARDENS LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "JAMES_ARBUTHNOT",
+ "group": 1
+},
+{
+ "name": "PAUL HAMLYN FOUNDATION",
+ "group": 2
+},
+{
+ "name": "TOWER HAMLETS SUMMER EDUCATION LIMITED",
+ "group": 2
+},
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+},
+{
+ "name": "UPRISING LEADERSHIP",
+ "group": 2
+},
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

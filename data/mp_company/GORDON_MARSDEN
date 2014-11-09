@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "GORDON_MARSDEN",
+ "group": 1
+},
+{
+ "name": "KANDUIT LIMITED",
+ "group": 2
+},
+{
+ "name": "THE MILLENNIUM THIRD AGE CENTRE",
+ "group": 2
+},
+{
+ "name": "THE ENVIRONMENT CENTRE (TEC)",
+ "group": 2
+},
+{
+ "name": "SOLENT SUSTAINABLE ENERGY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

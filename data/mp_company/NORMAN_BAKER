@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "NORMAN_BAKER",
+ "group": 1
+},
+{
+ "name": "MARDEN HOLDINGS LIMITED",
+ "group": 2
+},
+{
+ "name": "SYMS BUILDERS (CALNE) LIMITED",
+ "group": 2
+},
+{
+ "name": "C.SYMS & SONS LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

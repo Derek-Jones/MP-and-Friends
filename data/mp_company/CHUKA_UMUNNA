@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "CHUKA_UMUNNA",
+ "group": 1
+},
+{
+ "name": "PROTECTION PRODUCTS LIMITED",
+ "group": 2
+},
+{
+ "name": "EUROPE ARAB BANK PLC",
+ "group": 2
+},
+{
+ "name": "TELECABLE ONE LIMITED",
+ "group": 2
+},
+{
+ "name": "OPLAN ONE LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "ANN_CLWYD",
+ "group": 1
+},
+{
+ "name": "THE DAVID ROSS EDUCATION TRUST",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

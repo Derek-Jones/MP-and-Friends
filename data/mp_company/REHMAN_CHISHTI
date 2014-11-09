@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "REHMAN_CHISHTI",
+ "group": 1
+},
+{
+ "name": "NEWTON'S APPLE FOUNDATION LTD",
+ "group": 2
+},
+{
+ "name": "FLATLANE LIMITED",
+ "group": 2
+},
+{
+ "name": "THE WARWICK SQUARE COMPANY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

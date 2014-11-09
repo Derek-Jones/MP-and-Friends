@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "GRAHAM_BRADY",
+ "group": 1
+},
+{
+ "name": "BBL FOUNDATION",
+ "group": 2
+},
+{
+ "name": "KNOWSLEY SKILLS ACADEMY LTD",
+ "group": 2
+},
+{
+ "name": "THE PATHFINDER ACADEMY LTD",
+ "group": 2
+},
+{
+ "name": "NATIONAL WILDFLOWER CENTRE",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

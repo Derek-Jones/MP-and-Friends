@@ -1,0 +1,118 @@
+{
+ "nodes": [
+{
+ "name": "GEORGE_FREEMAN",
+ "group": 1
+},
+{
+ "name": "EVENNETT CARRINGTON ENTERPRISES LTD",
+ "group": 2
+},
+{
+ "name": "THE SMALL BUSINESS BUREAU LIMITED",
+ "group": 2
+},
+{
+ "name": "HILL HOUSE ASSETS LIMITED",
+ "group": 2
+},
+{
+ "name": "ELSOMS (SPALDING) LIMITED",
+ "group": 2
+},
+{
+ "name": "4D PARTNERS LLP",
+ "group": 2
+},
+{
+ "name": "MEDPHARM LIMITED",
+ "group": 2
+},
+{
+ "name": "PARADIGM THERAPEUTICS LIMITED",
+ "group": 2
+},
+{
+ "name": "SPRUCEUNIT PROPERTY MANAGEMENT LIMITED",
+ "group": 2
+},
+{
+ "name": "ICENI ADVISORY LIMITED",
+ "group": 2
+},
+{
+ "name": "POLECON EUROPE LIMITED",
+ "group": 2
+},
+{
+ "name": "PANTHERIX LIMITED",
+ "group": 2
+},
+{
+ "name": "KINDERTEC LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+},
+]
+}

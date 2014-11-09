@@ -1,0 +1,127 @@
+{
+ "nodes": [
+{
+ "name": "PAUL_BURSTOW",
+ "group": 1
+},
+{
+ "name": "LEARNING JUST LIMITED",
+ "group": 2
+},
+{
+ "name": "PH DEVELOPMENTS LIMITED",
+ "group": 2
+},
+{
+ "name": "PH HOMES LIMITED",
+ "group": 2
+},
+{
+ "name": "NEW BEACON EDUCATIONAL TRUST LIMITED (THE)",
+ "group": 2
+},
+{
+ "name": "TULLETT PREBON PLC",
+ "group": 2
+},
+{
+ "name": "BANNATYNE FITNESS LIMITED",
+ "group": 2
+},
+{
+ "name": "CARESHARE HOLDINGS LIMITED",
+ "group": 2
+},
+{
+ "name": "JUST LEARNING LTD.",
+ "group": 2
+},
+{
+ "name": "BUSY BEES NURSERIES (SCOTLAND) LIMITED",
+ "group": 2
+},
+{
+ "name": "BUILD AFRICA",
+ "group": 2
+},
+{
+ "name": "JUST LEARNING HOLDINGS LIMITED",
+ "group": 2
+},
+{
+ "name": "LAUDER LEARNING LIMITED",
+ "group": 2
+},
+{
+ "name": "TULLETT PREBON GROUP HOLDINGS PLC",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+},
+]
+}

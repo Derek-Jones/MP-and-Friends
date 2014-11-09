@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "OLIVER_LETWIN",
+ "group": 1
+},
+{
+ "name": "POLICY NETWORK AND COMMUNICATIONS LTD",
+ "group": 2
+},
+{
+ "name": "INSTITUTE FOR GOVERNMENT",
+ "group": 2
+},
+{
+ "name": "GREAT BRITAIN-CHINA CENTRE(THE)",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

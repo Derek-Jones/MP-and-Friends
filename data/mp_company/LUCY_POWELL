@@ -1,0 +1,181 @@
+{
+ "nodes": [
+{
+ "name": "LUCY_POWELL",
+ "group": 1
+},
+{
+ "name": "FOOTLAW 60 LIMITED",
+ "group": 2
+},
+{
+ "name": "WALTON BATES ASSOCIATES LTD",
+ "group": 2
+},
+{
+ "name": "SHEEPSTOR LIMITED",
+ "group": 2
+},
+{
+ "name": "UPL EUROPE LTD",
+ "group": 2
+},
+{
+ "name": "TAVY TYPESETTING LIMITED",
+ "group": 2
+},
+{
+ "name": "HERALD EXPRESS NEWS & MEDIA LIMITED",
+ "group": 2
+},
+{
+ "name": "OLD NEWNHAM FARM LIMITED",
+ "group": 2
+},
+{
+ "name": "H.R. CLOTHING (TORQUAY) LIMITED",
+ "group": 2
+},
+{
+ "name": "GLEN LEISURE MANAGEMENT LIMITED",
+ "group": 2
+},
+{
+ "name": "REFLEX AUTOMATION LIMITED",
+ "group": 2
+},
+{
+ "name": "COMPUTER MILLING SERVICES LIMITED",
+ "group": 2
+},
+{
+ "name": "250 NORTH ROAD WEST LIMITED",
+ "group": 2
+},
+{
+ "name": "GLENHOLT LIMITED",
+ "group": 2
+},
+{
+ "name": "MIDDLEPARK HOTEL PAIGNTON LIMITED",
+ "group": 2
+},
+{
+ "name": "RETAIL EXETER LIMITED",
+ "group": 2
+},
+{
+ "name": "GRIMSBY & SCUNTHORPE MEDIA GROUP LIMITED",
+ "group": 2
+},
+{
+ "name": "GLEN(PLYMOUTH)LIMITED(THE)", "GLEN(PLYMOUTH)LIMITED(THE)",
+ "group": 2
+},
+{
+ "name": "FOOT ANSTEY GROUP LIMITED",
+ "group": 2
+},
+{
+ "name": "SOUTH WEST FILM AND TELEVISION ARCHIVE LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 14,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 15,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 16,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 17,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 18,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 19,
+ "value": 1
+},
+]
+}

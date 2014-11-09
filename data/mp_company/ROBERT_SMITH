@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "ROBERT_SMITH",
+ "group": 1
+},
+{
+ "name": "THE SOCIAL INVESTMENT BUSINESS LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

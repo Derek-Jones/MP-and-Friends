@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "JESSICA_LEE",
+ "group": 1
+},
+{
+ "name": "CAPITA IT SERVICES (BSF) LIMITED",
+ "group": 2
+},
+{
+ "name": "WALLDALE LIMITED",
+ "group": 2
+},
+{
+ "name": "COSTWELL LIMITED",
+ "group": 2
+},
+{
+ "name": "CLOVERSPA LIMITED",
+ "group": 2
+},
+{
+ "name": "GROVERICH LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

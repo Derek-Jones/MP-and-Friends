@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "RICHARD_FULLER",
+ "group": 1
+},
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,64 @@
+{
+ "nodes": [
+{
+ "name": "GRAHAM_JONES",
+ "group": 1
+},
+{
+ "name": "THE GRASS ROOTS FOUNDATION",
+ "group": 2
+},
+{
+ "name": "FUDGE DIRECT CO LIMITED",
+ "group": 2
+},
+{
+ "name": "THE EASTBOURNE ROYAL HIPPODROME TRUST",
+ "group": 2
+},
+{
+ "name": "LCWH LIMITED",
+ "group": 2
+},
+{
+ "name": "DINING WITH A DIFFERENCE LTD",
+ "group": 2
+},
+{
+ "name": "NBFA ASSISTING THE ELDERLY",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+]
+}

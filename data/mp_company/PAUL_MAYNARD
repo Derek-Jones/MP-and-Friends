@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "PAUL_MAYNARD",
+ "group": 1
+},
+{
+ "name": "CHANDLERS WHARF (LEEDS) MANAGEMENT COMPANY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

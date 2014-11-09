@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_RUTLEY",
+ "group": 1
+},
+{
+ "name": "THE KAZAKHSTAN CENTRE FOR PEACE AND ACCORD",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

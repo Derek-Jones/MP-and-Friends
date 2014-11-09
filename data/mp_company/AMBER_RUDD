@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "AMBER_RUDD",
+ "group": 1
+},
+{
+ "name": "PET DEPOT LIMITED",
+ "group": 2
+},
+{
+ "name": "ELSHIE LIMITED",
+ "group": 2
+},
+{
+ "name": "EXPOSEUM LIMITED",
+ "group": 2
+},
+{
+ "name": "CHANGEALL LIMITED",
+ "group": 2
+},
+{
+ "name": "HASTINGS ACADEMIES TRUST",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

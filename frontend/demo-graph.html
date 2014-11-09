@@ -14,7 +14,25 @@
 
 </style>
 <body>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+
+<div class="content-graph content-wrapper">
+    <div id="chartCanvas">
+
+
+    </div>
+    <div class="content-graph-inner">
+
+    </div>
+</div>
+
 <script src="js/chart.js"></script>
+<script>
+    d3LoadData("mps.json");
+</script>
+<input type="text" id="txtGroup" style="width:500px"/>
+
 
 </body>

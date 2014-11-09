@@ -50,21 +50,23 @@
                 <div class="glyphicon glyphicon-search" ng-click="model.search()"></div>
             </div>
         </div>
-        {{model.fullName}}
-        {{model.birthDate}}
-        {{model.constituency}}
-        {{model.party}}
-        {{model.homePage}}
-        {{model.twitter}}
+
     </div>
+    {{model.fullName}}
+    {{model.birthDate}}
+    {{model.constituency}}
+    {{model.party}}
+    {{model.homePage}}
+    {{model.twitter}}
     <div class="content-graph content-wrapper">
-        <div>
+        <div id="chartCanvas">
 
 
         </div>
         <div class="content-graph-inner"></div>
     </div>
 </div>
+<script src="js/chart.js"></script>
 
 </body>
 </html>

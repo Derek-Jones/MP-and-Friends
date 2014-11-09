@@ -40,6 +40,9 @@ angular.module("openDataApp", ['ui.bootstrap'])
                 });
 
             }
+            self.loadGraph = function () {
+                d3LoadData("data/mps.json");
+            }
 
             self.search = function () {
 
@@ -94,6 +97,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
                             self.twitter = value.twitter;
 
                             console.log( self);
+                            self.loadGraph();
 
                         }
                     }

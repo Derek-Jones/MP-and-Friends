@@ -51,8 +51,8 @@ function d3LoadData(jsonFile){
         });
 
         function popup(d){
-            console.log(d.group);
-            $("#txtGroup").val(JSON.stringify(d));
+            console.log(d);
+
         }
     });
 }

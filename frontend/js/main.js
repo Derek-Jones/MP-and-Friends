@@ -61,7 +61,7 @@ angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
                 alert(self.autoCompleteFullName.fullName);
             }
             self.search = function () {
-
+                $('#chartCanvas svg').html("");
                 if ($scope.radioModel === 'postcode') {
                     console.log("postcode");
                     self.postcode = self.searchInput;

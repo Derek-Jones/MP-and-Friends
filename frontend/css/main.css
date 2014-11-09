@@ -325,7 +325,7 @@ body {
 }
 .content-wrapper {
 	text-align: center;
-	padding: 100px 0px 50px 0px;
+	padding: 100px 0px 580px 0px;
 }
 .content-search {
 	background: #DDF;
@@ -347,9 +347,9 @@ body {
 	border-radius: 5px 0px 0px 5px;
 	border: 1px solid #AAA;
 }
-.search-box-inner input{
+input[type="text"]{
 	height: 50px;
-	width: 373px;
+	width: 373px !important;
 }
 
 .search-box-btn{
@@ -357,4 +357,19 @@ body {
 	padding: 10px;
 	vertical-align: bottom;
 	border-radius: 0px 5px 5px 0px;
+}
+.content-graph table {
+    position: fixed;
+    bottom: 30px;
+    display: block;
+    left: 50px;
+    background: #333;
+    opacity: 0.6;
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+    color: #DDF;
+}
+.content-graph td{
+    padding: 0px 10px;
 }

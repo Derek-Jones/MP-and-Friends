@@ -302,3 +302,59 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+/**
+ * UI Bootstrap for angular
+ */
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+
+/** ===========
+ * Custom
+ */
+body {
+	font-family: 'Poiret One', cursive;
+	font-size: 30px;
+}
+
+.search-box > div {
+	display: inline-block;
+}
+.session-title {
+	font-size: 80px;
+}
+.content-wrapper {
+	text-align: center;
+	padding: 100px 0px 500px 0px;
+}
+.content-search {
+	background: #DDF;
+}
+.btn {
+	font-size: 44px;
+}
+.search-box{
+	font-size: 0px;
+}
+.search-box > div {
+	font-size: 30px;
+}
+.search-box-inner{
+	margin-top: 20px;
+}
+
+.search-box-input{
+	border-radius: 5px 0px 0px 5px;
+	border: 1px solid #AAA;
+}
+.search-box-inner input{
+	height: 50px;
+	width: 373px;
+}
+
+.search-box-btn{
+	background: #CCC;
+	padding: 10px;
+	vertical-align: bottom;
+	border-radius: 0px 5px 5px 0px;
+}

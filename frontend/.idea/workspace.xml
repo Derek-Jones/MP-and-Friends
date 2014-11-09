@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.31777108" vertical-offset="2012" max-vertical-offset="3705">
-              <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+              <caret line="117" column="129" selection-start-line="117" selection-start-column="129" selection-end-line="117" selection-end-column="129" />
               <folding />
             </state>
           </provider>
@@ -89,9 +89,9 @@
         <option value="$PROJECT_DIR$/data/mps.json" />
         <option value="$PROJECT_DIR$/data/new_mps.json" />
         <option value="$PROJECT_DIR$/js/chart.js" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/mp.html" />
         <option value="$PROJECT_DIR$/crossdomain.xml" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -538,7 +538,7 @@
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31777108" vertical-offset="2012" max-vertical-offset="3705">
-          <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
+          <caret line="117" column="129" selection-start-line="117" selection-start-column="129" selection-end-line="117" selection-end-column="129" />
           <folding />
         </state>
       </provider>

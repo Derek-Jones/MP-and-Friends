@@ -115,7 +115,7 @@ angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
 
             self.loadChartByFullName = function () {
 
-                d3LoadData("data/mp_company/"+self.givenName.toLocaleUpperCase()+"_"+self.familyName.toLocaleUpperCase(), function(){
+                d3LoadData("data/mp_company/"+self.givenName.toLocaleUpperCase()+"_"+self.familyName.toLocaleUpperCase() +".json", function(){
                     alert("Unable to find company related with MP " + self.fullName);
                 }, function(){
                     $document.scrollToElement(graphElement, 10, 2000);

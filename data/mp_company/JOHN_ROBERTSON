@@ -5,38 +5,6 @@
  "group": 1
 },
 {
- "name": "COVENTRY CITY FOOTBALL CLUB LIMITED",
- "group": 2
-},
-{
- "name": "ALLIANZ DRESDNER SMALLER COMPANIES INVESTMENT TRUST PLC",
- "group": 2
-},
-{
- "name": "SMART TECHNOLOGY GROUP LIMITED",
- "group": 2
-},
-{
- "name": "NEW STATESMAN LIMITED",
- "group": 2
-},
-{
- "name": "PAILTON ENGINEERING LIMITED",
- "group": 2
-},
-{
- "name": "LOCK INSPECTION SYSTEMS LIMITED",
- "group": 2
-},
-{
- "name": "ARENA 2001 LIMITED",
- "group": 2
-},
-{
- "name": "FOOTBALL INVESTORS LIMITED",
- "group": 2
-},
-{
  "name": "NEWTON CHAMBERS & COMPANY PUBLIC LIMITED COMPANY",
  "group": 2
 },
@@ -46,46 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
-{
- "source": 0,
- "target": 9,
- "value": 1
-},
+}
 ]
 }

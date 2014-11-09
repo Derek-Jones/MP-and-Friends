@@ -5,11 +5,22 @@
  "group": 1
 },
 {
- "name": "HISTORY TODAY LIMITED",
+ "name": "CANLLAW ONLINE CYF",
  "group": 2
 },
+,
+{
+ "name": "EUROPEAN MOVEMENT OF THE UNITED KINGDOM LTD",
+ "group": 2
+},
+,
 {
  "name": "HISTORY TODAY PUBLISHING LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "CAERPHILLY MINERS CENTRE FOR THE COMMUNITY",
  "group": 2
 },
 ],
@@ -18,11 +29,24 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
 ]
 }

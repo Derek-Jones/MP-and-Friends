@@ -5,69 +5,35 @@
  "group": 1
 },
 {
- "name": "CYBER SECURITY PROTECTION ALLIANCE LIMITED",
- "group": 2
-},
-{
- "name": "VINCENT SQUARE MANSIONS RESIDENTS LIMITED",
- "group": 2
-},
-{
- "name": "NCS TRUST C.I.C.",
- "group": 2
-},
-{
- "name": "TRIBUNE BUSINESS SYSTEMS LIMITED",
- "group": 2
-},
-{
- "name": "THE SOCIAL MOBILITY FOUNDATION",
- "group": 2
-},
-{
- "name": "GUIDE DOGS FOR THE BLIND ASSOCIATION(THE)",
- "group": 2
-},
-{
- "name": "PUBLIC SERVICE TELEVISION LIMITED",
- "group": 2
-},
-{
- "name": "UC GROUP LTD",
- "group": 2
-},
-{
- "name": "HADAW PRODUCTIONS AND INVESTMENTS LTD.",
- "group": 2
-},
-{
- "name": "SHEFFIELD LYCEUM THEATRE TRUST LIMITED",
- "group": 2
-},
-{
- "name": "FUTURE FOR YOUTH FOUNDATION",
- "group": 2
-},
-{
- "name": "THE ROPETACKLE CENTRE TRUST",
- "group": 2
-},
-{
  "name": "THE MINDFUL POLICY EXPERTS GROUP LIMITED",
  "group": 2
 },
+,
 {
  "name": "NETLINK INTERNET SERVICES LIMITED",
  "group": 2
 },
+,
 {
  "name": "CLASSWATCH LIMITED",
  "group": 2
 },
+,
 {
  "name": "DOOBREY LIMITED",
  "group": 2
 },
+,
+{
+ "name": "FUTURE FOR YOUTH FOUNDATION",
+ "group": 2
+},
+,
+{
+ "name": "THE ROPETACKLE CENTRE TRUST",
+ "group": 2
+},
+,
 {
  "name": "THE SHOREHAM OLD TOWN HALL TRUST",
  "group": 2
@@ -78,86 +44,42 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 4,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 5,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 6,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 7,
  "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
-{
- "source": 0,
- "target": 9,
- "value": 1
-},
-{
- "source": 0,
- "target": 10,
- "value": 1
-},
-{
- "source": 0,
- "target": 11,
- "value": 1
-},
-{
- "source": 0,
- "target": 12,
- "value": 1
-},
-{
- "source": 0,
- "target": 13,
- "value": 1
-},
-{
- "source": 0,
- "target": 14,
- "value": 1
-},
-{
- "source": 0,
- "target": 15,
- "value": 1
-},
-{
- "source": 0,
- "target": 16,
- "value": 1
-},
-{
- "source": 0,
- "target": 17,
- "value": 1
-},
+}
 ]
 }

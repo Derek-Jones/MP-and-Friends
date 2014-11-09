@@ -5,18 +5,6 @@
  "group": 1
 },
 {
- "name": "HOMETRACK DATA SYSTEMS LIMITED",
- "group": 2
-},
-{
- "name": "LONDON ANTI-CRIME EDUCATION SCHEME",
- "group": 2
-},
-{
- "name": "ROCKPOOLS PEOPLE & PERFORMANCE LIMITED",
- "group": 2
-},
-{
  "name": "THE FIRE PROTECTION ASSOCIATION",
  "group": 2
 },
@@ -26,21 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
+}
 ]
 }

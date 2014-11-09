@@ -5,34 +5,6 @@
  "group": 1
 },
 {
- "name": "PARKLANDS APARTMENTS (EAGLESCLIFFE) MANAGEMENT COMPANY LIMITED",
- "group": 2
-},
-{
- "name": "TRIPLE S MANAGEMENT INTERNATIONAL LIMITED",
- "group": 2
-},
-{
- "name": "CAREER & COACHING UK LIMITED",
- "group": 2
-},
-{
- "name": "TRIPLE S GOLF MANAGEMENT LTD",
- "group": 2
-},
-{
- "name": "TRIPLE S EVENTS LIMITED",
- "group": 2
-},
-{
- "name": "GRAVITON LITE LIMITED",
- "group": 2
-},
-{
- "name": "TRIPLE S SPORTS AND ENTERTAINMENT GROUP LIMITED",
- "group": 2
-},
-{
  "name": "DAN GOSLING 32 LIMITED",
  "group": 2
 },
@@ -42,41 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
+}
 ]
 }

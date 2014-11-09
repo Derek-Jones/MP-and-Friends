@@ -5,7 +5,32 @@
  "group": 1
 },
 {
+ "name": "J. T. INVESTMENTS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "M & E (PROPERTY) INVESTMENTS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "QUEENSWOOD COURT FREEHOLD COMPANY LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ARISTOTLE MEWS (CLAPHAM) RESIDENTS ASSOCIATION LIMITED",
+ "group": 2
+},
+,
+{
  "name": "STOP CLIMATE CHAOS, SCOTLAND",
+ "group": 2
+},
+,
+{
+ "name": "HENDERSON GLOBAL INVESTORS LIMITED",
  "group": 2
 },
 ],
@@ -14,6 +39,36 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
 ]
 }

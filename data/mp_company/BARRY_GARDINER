@@ -5,25 +5,20 @@
  "group": 1
 },
 {
- "name": "MOLBOER APIARY LIMITED",
+ "name": "BRENT NORTH YOUTH SPORTS PILOT PROJECT",
  "group": 2
 },
-{
- "name": "EDWARDIAN BRUSHES LIMITED",
- "group": 2
-},
+,
 {
  "name": "BENDLES + CO",
  "group": 2
 },
+,
 {
  "name": "MANAGEMENT INTERNATIONAL UK LIMITED",
  "group": 2
 },
-{
- "name": "BRENT NORTH YOUTH SPORTS PILOT PROJECT",
- "group": 2
-},
+,
 {
  "name": "STICHLING HAHN HILBRICH (AVERAGE ADJUSTERS) LIMITED",
  "group": 2
@@ -34,31 +29,24 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 4,
  "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
+}
 ]
 }

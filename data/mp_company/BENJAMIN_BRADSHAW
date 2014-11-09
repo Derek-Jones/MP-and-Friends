@@ -5,14 +5,6 @@
  "group": 1
 },
 {
- "name": "BUSINESS FOR STERLING",
- "group": 2
-},
-{
- "name": "PENRYN FRUITS LIMITED",
- "group": 2
-},
-{
  "name": "BLEWBURY DIRECT LTD",
  "group": 2
 },
@@ -22,16 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
+}
 ]
 }

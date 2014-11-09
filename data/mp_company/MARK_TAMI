@@ -8,12 +8,23 @@
  "name": "NACRO COMMUNITY ENTERPRISES LIMITED",
  "group": 2
 },
+,
+{
+ "name": "PARBASTE LIMITED",
+ "group": 2
+},
 ],
  "links": [
 {
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
 ]
 }

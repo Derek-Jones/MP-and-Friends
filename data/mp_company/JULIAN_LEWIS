@@ -5,11 +5,17 @@
  "group": 1
 },
 {
- "name": "TRELYA", "TRELYA",
+ "name": "WESSEX RIDING THERAPY",
  "group": 2
 },
+,
 {
  "name": "HAYLE HARBOUR TRUST LTD",
+ "group": 2
+},
+,
+{
+ "name": "POLICY RESEARCH ASSOCIATES LIMITED",
  "group": 2
 },
 ],
@@ -18,11 +24,18 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
 ]
 }

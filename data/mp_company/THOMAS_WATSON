@@ -5,30 +5,6 @@
  "group": 1
 },
 {
- "name": "MACTAGGART THIRD FUND",
- "group": 2
-},
-{
- "name": "THE CIVIL LIBERTIES TRUST",
- "group": 2
-},
-{
- "name": "MACTAGGART COMMUNITY CYBER CAFE",
- "group": 2
-},
-{
- "name": "IAN MACTAGGART TRUST",
- "group": 2
-},
-{
- "name": "COMMONWEAL HOUSING LIMITED",
- "group": 2
-},
-{
- "name": "BATTERSEA ARTS CENTRE",
- "group": 2
-},
-{
  "name": "ENTERPRISE EDUCATION TRUST",
  "group": 2
 },
@@ -38,36 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
+}
 ]
 }

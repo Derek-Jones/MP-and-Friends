@@ -5,17 +5,10 @@
  "group": 1
 },
 {
- "name": "PALM TRAVEL (WEST) LIMITED",
- "group": 2
-},
-{
- "name": "CNK ALLIANCE LIMITED",
- "group": 2
-},
-{
  "name": "A.J.W.B. TRAVEL LIMITED",
  "group": 2
 },
+,
 {
  "name": "BEDFORDSHIRE CO-OPERATIVE DEVELOPMENT AGENCY LIMITED",
  "group": 2
@@ -26,21 +19,12 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
+}
 ]
 }

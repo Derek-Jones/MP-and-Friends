@@ -5,10 +5,6 @@
  "group": 1
 },
 {
- "name": "WHITE ROSE INVESTMENTS LIMITED",
- "group": 2
-},
-{
  "name": "ELLANBY HOLDINGS COMPANY LIMITED",
  "group": 2
 },
@@ -18,11 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
+}
 ]
 }

@@ -5,7 +5,17 @@
  "group": 1
 },
 {
+ "name": "TRADE UNION RESEARCH UNIT LIMITED",
+ "group": 2
+},
+,
+{
  "name": "INTELLIGENT MANAGED SERVICES LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "AMARA MINING PLC",
  "group": 2
 },
 ],
@@ -14,6 +24,18 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
 ]
 }

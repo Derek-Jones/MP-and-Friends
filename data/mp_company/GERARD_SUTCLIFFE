@@ -5,35 +5,32 @@
  "group": 1
 },
 {
- "name": "EMPLOYERS' ORGANISATION FOR LOCAL GOVERNMENT",
+ "name": "OK BULLS LIMITED",
  "group": 2
 },
+,
 {
- "name": "WOODLANDS NURSERIES LLP",
+ "name": "LEEDS ENTERPRISE LIMITED",
  "group": 2
 },
+,
 {
- "name": "ROUNDWOOD LAKE LIMITED",
+ "name": "ENGLAND 2018/2022 BIDDING NATION LIMITED",
  "group": 2
 },
+,
 {
- "name": "LEWIS LEGAL & COMMERCIAL LIMITED",
+ "name": "BRADFORD INDEPENDENT LABOUR PARTY CENTENARY CELEBRATION TRUST LTD",
  "group": 2
 },
-{
- "name": "I5 CONSULTING LIMITED",
- "group": 2
-},
-{
- "name": "WOODLANDS SCHOOLS ENTERPRISES LIMITED",
- "group": 2
-},
-{
- "name": "BRENTWOOD TOWN CENTRE PARTNERSHIP",
- "group": 2
-},
+,
 {
  "name": "WOODLANDS SCHOOLS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BRADFORD CITY FC COMMUNITY FOUNDATION",
  "group": 2
 },
 ],
@@ -42,41 +39,36 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 4,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 5,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 6,
  "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
+}
 ]
 }

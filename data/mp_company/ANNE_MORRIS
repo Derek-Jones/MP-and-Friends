@@ -5,35 +5,37 @@
  "group": 1
 },
 {
- "name": "LAGAN CANAL RESTORATION TRUST - THE",
- "group": 2
-},
-{
- "name": "CENTRE FOR DEMOCRACY AND PEACE BUILDING",
- "group": 2
-},
-{
- "name": "CIPCR LTD",
- "group": 2
-},
-{
- "name": "MOREBRIDGE LIMITED",
- "group": 2
-},
-{
- "name": "CIPBCR LTD",
- "group": 2
-},
-{
  "name": "THE PRISON SERVICE TRUST",
  "group": 2
 },
+,
 {
  "name": "THE GENESIS INITIATIVE LIMITED",
  "group": 2
 },
+,
+{
+ "name": "POLICY RESEARCH UNIT LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "SANDFORD ORLEIGH MANAGEMENT COMPANY LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "NEWTON ABBOT ACADEMY TRUST",
+ "group": 2
+},
+,
 {
  "name": "THE SMALL BUSINESS BUREAU LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "MANTEION LIMITED",
  "group": 2
 },
 ],
@@ -42,41 +44,42 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 4,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 5,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 6,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 7,
  "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
+}
 ]
 }

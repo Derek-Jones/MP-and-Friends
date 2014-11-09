@@ -5,15 +5,22 @@
  "group": 1
 },
 {
- "name": "POLICY NETWORK AND COMMUNICATIONS LTD",
+ "name": "PAST TENSE LIMITED",
  "group": 2
 },
+,
 {
- "name": "INSTITUTE FOR GOVERNMENT",
+ "name": "SHERBORNE SCHOOL FOR GIRLS",
  "group": 2
 },
+,
 {
  "name": "GREAT BRITAIN-CHINA CENTRE(THE)",
+ "group": 2
+},
+,
+{
+ "name": "THE CENTRE FOR SOCIAL JUSTICE",
  "group": 2
 },
 ],
@@ -22,16 +29,24 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
 ]
 }

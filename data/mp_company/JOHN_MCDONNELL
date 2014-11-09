@@ -5,7 +5,37 @@
  "group": 1
 },
 {
+ "name": "BARRA HALL COMMUNITY DEVELOPMENT COMMITTEE",
+ "group": 2
+},
+,
+{
+ "name": "HAYES & HARLINGTON COMMUNITY DEVELOPMENT FORUM",
+ "group": 2
+},
+,
+{
+ "name": "ASSOCIATION OF LONDON AUTHORITIES (PROPERTIES) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LONDON COUNCILS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "HAYES FM - FILM & MEDIA",
+ "group": 2
+},
+,
+{
  "name": "TRAFFIC RESEARCH LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "HILLINGDON PLAY ASSOCIATION",
  "group": 2
 },
 ],
@@ -14,6 +44,42 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
 ]
 }

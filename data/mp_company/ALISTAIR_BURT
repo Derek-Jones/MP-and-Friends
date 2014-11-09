@@ -5,15 +5,12 @@
  "group": 1
 },
 {
- "name": "THE CLAVERHOUSE GROUP",
- "group": 2
-},
-{
- "name": "CLAVERHOUSE ENERGY",
- "group": 2
-},
-{
  "name": "CLAVERHOUSE SERVICES",
+ "group": 2
+},
+,
+{
+ "name": "ENTERPRISE FORUM LIMITED",
  "group": 2
 },
 ],
@@ -22,16 +19,12 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
+}
 ]
 }

@@ -5,10 +5,6 @@
  "group": 1
 },
 {
- "name": "POLICY RESEARCH UNIT LIMITED",
- "group": 2
-},
-{
  "name": "INCORPORATED COUNCIL OF LAW REPORTING FOR ENGLAND AND WALES (THE)",
  "group": 2
 },
@@ -18,11 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
+}
 ]
 }

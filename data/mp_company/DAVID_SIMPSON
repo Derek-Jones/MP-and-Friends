@@ -5,11 +5,12 @@
  "group": 1
 },
 {
- "name": "CRAIGAVON & ARMAGH RURAL DEVELOPMENT",
+ "name": "UNIVERSAL MEAT COMPANY",
  "group": 2
 },
+,
 {
- "name": "UNIVERSAL MEAT COMPANY",
+ "name": "BLACKWATER VALLEY INVESTMENTS LTD",
  "group": 2
 },
 ],
@@ -18,11 +19,12 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
 ]
 }

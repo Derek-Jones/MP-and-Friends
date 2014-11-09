@@ -5,59 +5,12 @@
  "group": 1
 },
 {
- "name": "THAMES FESTIVAL TRUST",
- "group": 2
-},
-{
- "name": "THAMES HERITAGE PARADE TRUST LIMITED",
- "group": 2
-},
-{
- "name": "BUBBLE THEATRE COMPANY LIMITED (THE)",
- "group": 2
-},
-{
- "name": "THAMES HERITAGE PARADE LIMITED",
- "group": 2
-},
-{
- "name": "ELEPHANT AND CASTLE TRUST",
- "group": 2
-},
-{
- "name": "ROSE THEATRE TRUST",
- "group": 2
-},
-{
- "name": "THE SALMON YOUTH CENTRE IN BERMONDSEY",
- "group": 2
-},
-{
- "name": "THE SUZY LAMPLUGH TRUST",
- "group": 2
-},
-{
- "name": "BACON'S COLLEGE",
- "group": 2
-},
-{
- "name": "WATERSIDE ARTS AND DESIGN SPACES LIMITED",
- "group": 2
-},
-{
- "name": "THE SOCIAL MOBILITY FOUNDATION",
- "group": 2
-},
-{
- "name": "SAVE GUY'S HOSPITAL CAMPAIGN LIMITED",
- "group": 2
-},
-{
- "name": "SELF HELP AFRICA (UK)",
- "group": 2
-},
-{
  "name": "SOUTHWARK NEWS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "CNP (UK) LIMITED",
  "group": 2
 },
 ],
@@ -66,71 +19,12 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
-{
- "source": 0,
- "target": 9,
- "value": 1
-},
-{
- "source": 0,
- "target": 10,
- "value": 1
-},
-{
- "source": 0,
- "target": 11,
- "value": 1
-},
-{
- "source": 0,
- "target": 12,
- "value": 1
-},
-{
- "source": 0,
- "target": 13,
- "value": 1
-},
-{
- "source": 0,
- "target": 14,
- "value": 1
-},
+}
 ]
 }

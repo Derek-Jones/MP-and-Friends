@@ -5,59 +5,32 @@
  "group": 1
 },
 {
- "name": "ADAM SMITH ADVISORY GROUP LIMITED",
+ "name": "TRIANGULAR MEDIAN LIMITED",
  "group": 2
 },
+,
 {
- "name": "ALLIANCE MEDICAL HOLDINGS LIMITED",
+ "name": "RADIO YORKSHIRE LIMITED",
  "group": 2
 },
+,
 {
- "name": "ADAM SMITH INTERNATIONAL LTD",
+ "name": "WHITE ROSE RADIO LIMITED",
  "group": 2
 },
+,
 {
- "name": "ABRAXA LIMITED",
+ "name": "PENNINE HERITAGE LIMITED",
  "group": 2
 },
-{
- "name": "ADAM SMITH SERVICES LIMITED",
- "group": 2
-},
-{
- "name": "SEAENERGY PLC",
- "group": 2
-},
-{
- "name": "ALLIANCE MEDICAL GROUP LIMITED",
- "group": 2
-},
-{
- "name": "UNILEVER PLC",
- "group": 2
-},
-{
- "name": "THE AMPHION GROUP LIMITED",
- "group": 2
-},
-{
- "name": "BRITISH ASSETS TRUST PUBLIC LIMITED COMPANY",
- "group": 2
-},
-{
- "name": "EUROPEAN LEADERSHIP NETWORK",
- "group": 2
-},
-{
- "name": "G4S HOLDINGS INTERNATIONAL (AG) LIMITED",
- "group": 2
-},
-{
- "name": "THE DULVERTON TRUST",
- "group": 2
-},
+,
 {
  "name": "F&C EMERGING MARKETS INVESTMENT TRUST PLC",
+ "group": 2
+},
+,
+{
+ "name": "YORKSHIRE AND HUMBER SEAFOOD GROUP LIMITED",
  "group": 2
 },
 ],
@@ -66,71 +39,36 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 4,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 5,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 6,
  "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
-{
- "source": 0,
- "target": 9,
- "value": 1
-},
-{
- "source": 0,
- "target": 10,
- "value": 1
-},
-{
- "source": 0,
- "target": 11,
- "value": 1
-},
-{
- "source": 0,
- "target": 12,
- "value": 1
-},
-{
- "source": 0,
- "target": 13,
- "value": 1
-},
-{
- "source": 0,
- "target": 14,
- "value": 1
-},
+}
 ]
 }

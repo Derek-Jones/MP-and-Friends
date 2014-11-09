@@ -5,59 +5,17 @@
  "group": 1
 },
 {
- "name": "UNITED LEARNING TRUST",
+ "name": "CO-OPERATION BLACK COUNTRY LTD",
  "group": 2
 },
-{
- "name": "THE FOUNDATION YEARS TRUST",
- "group": 2
-},
-{
- "name": "NORTH END WIRRAL WORKSHOPS",
- "group": 2
-},
-{
- "name": "UNIVERSITY ACADEMY OF BIRKENHEAD",
- "group": 2
-},
-{
- "name": "COOL EARTH ACTION",
- "group": 2
-},
-{
- "name": "PROSTATE ACTION",
- "group": 2
-},
-{
- "name": "WIRRAL COMMUNITY ASSOCIATION LIMITED",
- "group": 2
-},
-{
- "name": "HUMAN TRAFFICKING FOUNDATION",
- "group": 2
-},
-{
- "name": "MEDICASH HEALTH BENEFITS LIMITED",
- "group": 2
-},
-{
- "name": "THE 2011 TRUST",
- "group": 2
-},
-{
- "name": "COOL EARTH LIMITED",
- "group": 2
-},
-{
- "name": "BAKER DEARING EDUCATIONAL TRUST",
- "group": 2
-},
-{
- "name": "THE TRAIDCRAFT EXCHANGE",
- "group": 2
-},
+,
 {
  "name": "NATIONAL INSTITUTE OF ECONOMIC AND SOCIAL RESEARCH(INCORPORATED)(THE)",
+ "group": 2
+},
+,
+{
+ "name": "WEST MIDLANDS ENTERPRISE LIMITED",
  "group": 2
 },
 ],
@@ -66,71 +24,18 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
-{
- "source": 0,
- "target": 9,
- "value": 1
-},
-{
- "source": 0,
- "target": 10,
- "value": 1
-},
-{
- "source": 0,
- "target": 11,
- "value": 1
-},
-{
- "source": 0,
- "target": 12,
- "value": 1
-},
-{
- "source": 0,
- "target": 13,
- "value": 1
-},
-{
- "source": 0,
- "target": 14,
- "value": 1
-},
+}
 ]
 }

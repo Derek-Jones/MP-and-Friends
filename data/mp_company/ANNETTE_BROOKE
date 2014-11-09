@@ -5,31 +5,17 @@
  "group": 1
 },
 {
- "name": "ONE TO ONE HEALTH LIMITED",
+ "name": "UNITED YOUTH DEVELOPMENT ORGANIZATION",
  "group": 2
 },
-{
- "name": "OGILVY 4D LIMITED",
- "group": 2
-},
-{
- "name": "OGILVY HEALTHWORLD EUROPE LIMITED",
- "group": 2
-},
-{
- "name": "OGILVY HEALTHWORLD UK LTD",
- "group": 2
-},
-{
- "name": "UNITED KINGDOM - JAPAN 21ST CENTURY GROUP",
- "group": 2
-},
-{
- "name": "OGILVY HEALTH PR LIMITED",
- "group": 2
-},
+,
 {
  "name": "VIOLET PRODUCTIONS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ANSBURY", "ANSBURY",
  "group": 2
 },
 ],
@@ -38,36 +24,18 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 3,
  "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
+}
 ]
 }

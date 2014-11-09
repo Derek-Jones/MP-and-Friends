@@ -5,19 +5,12 @@
  "group": 1
 },
 {
- "name": "AYSGARTH PROPERTIES LIMITED",
- "group": 2
-},
-{
- "name": "H.G.D. LITHO LIMITED",
- "group": 2
-},
-{
- "name": "SIMPLY FITNESS NOW LIMITED",
- "group": 2
-},
-{
  "name": "METLOC PRINTERS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "CARTMORE BUILDING SUPPLY COMPANY LIMITED",
  "group": 2
 },
 ],
@@ -26,21 +19,12 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
+}
 ]
 }

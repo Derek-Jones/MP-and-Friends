@@ -5,34 +5,6 @@
  "group": 1
 },
 {
- "name": "LANGBY LIMITED",
- "group": 2
-},
-{
- "name": "MARINE STEWARDSHIP COUNCIL INTERNATIONAL LIMITED",
- "group": 2
-},
-{
- "name": "VANDERBILT 1992 LIMITED",
- "group": 2
-},
-{
- "name": "JERUSALEM PRODUCTIONS LIMITED",
- "group": 2
-},
-{
- "name": "VANDERBILT RACQUET CLUB LIMITED(THE)",
- "group": 2
-},
-{
- "name": "LAMDA LIMITED",
- "group": 2
-},
-{
- "name": "THE OFFICE OF SHAUN WOODWARD LIMITED",
- "group": 2
-},
-{
  "name": "VANDERBILT HOLDINGS LIMITED",
  "group": 2
 },
@@ -42,41 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
-{
- "source": 0,
- "target": 8,
- "value": 1
-},
+}
 ]
 }

@@ -5,13 +5,10 @@
  "group": 1
 },
 {
- "name": "KIDS OUT UK",
- "group": 2
-},
-{
  "name": "MAKE VOTES COUNT",
  "group": 2
 },
+,
 {
  "name": "OXFORD MARKETING COLLEGE LIMITED",
  "group": 2
@@ -22,16 +19,12 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
 {
  "source": 0,
  "target": 2,
  "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
+}
 ]
 }

@@ -5,7 +5,52 @@
  "group": 1
 },
 {
+ "name": "BIRMINGHAM BUSINESS SUPPORT CENTRE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BIRMINGHAM TECHNOLOGY (PROPERTY) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BIRMINGHAM RESEARCH PARK LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "RESIDENTS WHO CARE LTD",
+ "group": 2
+},
+,
+{
+ "name": "STOKE CITY COMMUNITY TRUST",
+ "group": 2
+},
+,
+{
+ "name": "CENTRAL TECHNOLOGY BELT",
+ "group": 2
+},
+,
+{
+ "name": "BIRMINGHAM SCIENCE PARK ASTON LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BIRMINGHAM TECHNOLOGY (VENTURE CAPITAL) LIMITED",
+ "group": 2
+},
+,
+{
  "name": "BETTER TOGETHER 2012 LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BIRMINGHAM RESEARCH AND DEVELOPMENT LIMITED",
  "group": 2
 },
 ],
@@ -14,6 +59,60 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
 ]
 }

@@ -5,7 +5,17 @@
  "group": 1
 },
 {
+ "name": "THE LANDSCAPE DESIGN GROUP LIMITED",
+ "group": 2
+},
+,
+{
  "name": "HANWELL COMMUNITY CENTRE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "TRAPP & LAMPLUGH LTD",
  "group": 2
 },
 ],
@@ -14,6 +24,18 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
 ]
 }

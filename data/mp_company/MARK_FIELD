@@ -5,7 +5,17 @@
  "group": 1
 },
 {
+ "name": "THE SMALL BUSINESS BUREAU LIMITED",
+ "group": 2
+},
+,
+{
  "name": "WALWORTH ROAD TRADE UNION MANAGEMENT COMPANY LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "PORTOBELLO BUSINESS CENTRE",
  "group": 2
 },
 ],
@@ -14,6 +24,18 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
 ]
 }

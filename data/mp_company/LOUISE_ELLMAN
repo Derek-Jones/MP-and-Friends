@@ -5,7 +5,87 @@
  "group": 1
 },
 {
+ "name": "LANCASHIRE COUNTY ENTERPRISES (LEASING) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LANCASHIRE ROSEBUD (SMALL FIRMS) FUND COMPANY LIMITED(THE)",
+ "group": 2
+},
+,
+{
+ "name": "PRESTON TECHNOLOGY MANAGEMENT CENTRE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LANCASHIRE COUNTY DEVELOPMENTS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LANCASHIRE COUNTY DEVELOPMENTS (INVESTMENTS) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ENTERPRISE (VENTURE PARTNER) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LANCASHIRE BUSINESS AND INNOVATION CENTRE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ENTERPRISE HOLDING COMPANY NO 1 LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ENTERPRISE VENTURES LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LANCASHIRE ENTERPRISES (EUROPE) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "SITA (LANCASHIRE) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LANCASHIRE ENTERPRISES (INVESTMENTS) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "EDS (NW) LTD",
+ "group": 2
+},
+,
+{
+ "name": "THE LIVERPOOL INSTITUTE FOR PERFORMING ARTS",
+ "group": 2
+},
+,
+{
+ "name": "LANCASHIRE COUNTY DEVELOPMENTS (PROPERTY) LIMITED",
+ "group": 2
+},
+,
+{
  "name": "CARCLEW LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "HOLOCAUST MEMORIAL DAY TRUST",
  "group": 2
 },
 ],
@@ -14,6 +94,102 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 14,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 15,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 16,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 17,
+ "value": 1
+}
 ]
 }

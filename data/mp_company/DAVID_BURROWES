@@ -5,30 +5,6 @@
  "group": 1
 },
 {
- "name": "ALIBI BARS LLP",
- "group": 2
-},
-{
- "name": "ARTS FOR LIFE",
- "group": 2
-},
-{
- "name": "FOUNDATION OF HEARTS LIMITED",
- "group": 2
-},
-{
- "name": "THE ROYAL OBSERVATORY (EDINBURGH) TRUST",
- "group": 2
-},
-{
- "name": "100MPH EVENTS LIMITED",
- "group": 2
-},
-{
- "name": "HEART OF MIDLOTHIAN PLC",
- "group": 2
-},
-{
  "name": "FR 2001 LIMITED",
  "group": 2
 },
@@ -38,36 +14,6 @@
  "source": 0,
  "target": 1,
  "value": 1
-},
-{
- "source": 0,
- "target": 2,
- "value": 1
-},
-{
- "source": 0,
- "target": 3,
- "value": 1
-},
-{
- "source": 0,
- "target": 4,
- "value": 1
-},
-{
- "source": 0,
- "target": 5,
- "value": 1
-},
-{
- "source": 0,
- "target": 6,
- "value": 1
-},
-{
- "source": 0,
- "target": 7,
- "value": 1
-},
+}
 ]
 }

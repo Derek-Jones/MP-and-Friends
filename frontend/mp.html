@@ -65,7 +65,6 @@
 
 
     <div class="content-graph content-wrapper">
-        <button ng-click="model.loadChartByFullName()">run</button>
         <div id="chartCanvas">
 
 
@@ -73,12 +72,15 @@
         <div class="content-graph-inner"></div>
     </div>
 
-    {{model.fullName}}
-    {{model.birthDate}}
-    {{model.constituency}}
-    {{model.party}}
-    {{model.homePage}}
-    {{model.twitter}}
+    <table>
+    	<tr><td>{{model.fullName}}</td></tr>
+    	<tr><td>{{model.birthDate}}</td></tr>
+    	<tr><td>{{model.constituency}}</td></tr>
+    	<tr><td>{{model.party}}</td></tr>
+    	<tr><td><a href="{{model.homePage}}">{{model.homePage}}</a></td></tr>
+    	<tr><td><a href="{{model.twitter}}">{{model.twitter}}</a></td></tr>
+    </table>
+
 </div>
 <script src="js/chart.js"></script>
 

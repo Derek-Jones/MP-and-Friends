@@ -1,10 +1,12 @@
-angular.module("openDataApp", ['ui.bootstrap'])
-    .controller("openDataCtrl", ["$scope", "$http", "$location", "$filter", function ($scope, $http, $location, $filter) {
+angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
+    .controller("openDataCtrl", ["$scope", "$http", "$location", "$filter", "$document", function ($scope, $http, $location, $filter, $document) {
 
         $scope.radioModel = 'postcode';
 
         function openDataViewModel() {
             var self = this;
+
+            var graphElement = angular.element(document.getElementById('chartCanvas'));
 
             self.postcode = "ox145hw";
             self.constituency = "";
@@ -26,7 +28,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
 
             self.postcodeSearch = function () {
                 $("#progressbar").show();
-                str = self.postcode;
+                var str = self.postcode;
                 str = str.replace(/\s+/g, '');
 
                 var httpRequest = $http({
@@ -60,7 +62,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
             }
             self.search = function () {
 
-                if ($scope.radioModel == 'postcode') {
+                if ($scope.radioModel === 'postcode') {
                     console.log("postcode");
                     self.postcode = self.searchInput;
                     self.postcodeSearch();
@@ -99,6 +101,10 @@ angular.module("openDataApp", ['ui.bootstrap'])
                             console.log( self);
                             self.loadGraph();
                             $("#progressbar").hide();
+
+                            $document.scrollToElement(graphElement, 10, 2000);
+
+
                         }
                     }
                     catch (err) {
@@ -107,23 +113,26 @@ angular.module("openDataApp", ['ui.bootstrap'])
                 });
             }
 
+            self.loadChartByFullName = function () {
+                alert(self.fullName.toLocaleLowerCase().replace(" ","_"));
+            }
+
+
             self.mpSearch = function () {
-                url = "http://lda.data.parliament.uk/commonsmembers.json?_properties=familyName,fullName,constituency.label,birthDate,givenName,twitter,gender,party,homePage,constituency.prefLabel&_view=basic&_page=0&_pageSize=500";
-                url = "data/commonsmembers.json";
+                // url = "http://lda.data.parliament.uk/commonsmembers.json?_properties=familyName,fullName,constituency.label,birthDate,givenName,twitter,gender,party,homePage,constituency.prefLabel&_view=basic&_page=0&_pageSize=500";
+                var url = "data/commonsmembers.json";
                 var httpRequest = $http({
                     method: "GET",
                     url: url
                 });
                 httpRequest.success(function (data, status, headers, config) {
                     self.mpList = data;
+                    //	console.log(data);
 
                 });
 
             }
 
-            self.loadChartByFullName = function () {
-                alert(self.fullName.toLocaleLowerCase().replace(" ","_"));
-            }
             self.mpFilter = function () {
 
                 //	console.log(self.mpList.result.items[0].constituency.label._value);
@@ -151,6 +160,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
                             console.log( self);
                             self.loadGraph();
                             $("#progressbar").hide();
+                            $document.scrollToElement(graphElement, 10, 2000);
                         }
                     }
                     catch (err) {

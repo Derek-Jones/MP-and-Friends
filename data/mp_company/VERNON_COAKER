@@ -1,0 +1,41 @@
+{
+ "nodes": [
+{
+ "name": "VERNON_COAKER",
+ "group": 1
+},
+{
+ "name": "DEMOCRACY FOR YOUNG PEOPLE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "REDLAND FIELDCASTLE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "GEDLING CONSERVATION TRUST LTD.",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+]
+}

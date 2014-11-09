@@ -1,0 +1,96 @@
+{
+ "nodes": [
+{
+ "name": "BENEDICT_GUMMER",
+ "group": 1
+},
+{
+ "name": "THE FOUNDATION YEARS TRUST",
+ "group": 2
+},
+,
+{
+ "name": "EARTHCARE PRODUCTS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BLUE CONTROL SYSTEMS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "SANCROFT EXECUTIVE SERVICES LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "EXCURSUS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "SANCROFT INTERNATIONAL LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "POLICY EXCHANGE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "AMBIO LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+]
+}

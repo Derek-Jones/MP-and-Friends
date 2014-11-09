@@ -1,0 +1,228 @@
+{
+ "nodes": [
+{
+ "name": "TIMOTHY_YEO",
+ "group": 1
+},
+{
+ "name": "EUROTUNNEL GROUP UK PLC",
+ "group": 2
+},
+,
+{
+ "name": "ANACOL HOLDINGS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "WASTE2TRICITY LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ECO CITY VEHICLES PLC",
+ "group": 2
+},
+,
+{
+ "name": "TMO RENEWABLES LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LOCANA CORPORATION (LONDON) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "LOCANA NOMINEES LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "D'ARCY STAND LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "EDUCATION LINK TRUST",
+ "group": 2
+},
+,
+{
+ "name": "NUMBER 151 PROPRIETORS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "GENERAL SECURITIES REGISTER,LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "59 BURRELL ROAD MANAGEMENT LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ITI ENERGY LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "AFC ENERGY PLC",
+ "group": 2
+},
+,
+{
+ "name": "FIRST LONDON PLC",
+ "group": 2
+},
+,
+{
+ "name": "ALBION COMMUNITY POWER PLC",
+ "group": 2
+},
+,
+{
+ "name": "TNU PLC",
+ "group": 2
+},
+,
+{
+ "name": "ADEPTT LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "MICHAEL & PHILIP GLEN LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "UNIVENT LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 14,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 15,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 16,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 17,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 18,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 19,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 20,
+ "value": 1
+}
+]
+}

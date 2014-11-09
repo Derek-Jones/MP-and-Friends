@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "CHERYL_GILLAN",
+ "group": 1
+},
+{
+ "name": "ENGENDER", "ENGENDER",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

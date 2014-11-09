@@ -1,0 +1,184 @@
+{
+ "nodes": [
+{
+ "name": "BARRY_SHEERMAN",
+ "group": 1
+},
+{
+ "name": "SALISBURY ROAD DEVELOPMENT LLP",
+ "group": 2
+},
+,
+{
+ "name": "NATIONAL EDUCATIONAL RESEARCH AND DEVELOPMENT TRUST",
+ "group": 2
+},
+,
+{
+ "name": "POLICY CONNECT LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "THE JOHN CLARE TRUST",
+ "group": 2
+},
+,
+{
+ "name": "MADE IN THE UK LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "COBBETT ENVIRONMENTAL LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "INTERPARLE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "UM SGP LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "DESIGN YORKSHIRE LTD",
+ "group": 2
+},
+,
+{
+ "name": "THE PARLIAMENTARY ADVISORY COUNCIL FOR TRANSPORT SAFETY",
+ "group": 2
+},
+,
+{
+ "name": "LOGICAP LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "JOHN CLARE (HELPSTON) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "THE INSTITUTE FOR COLLABORATIVE WORKING",
+ "group": 2
+},
+,
+{
+ "name": "UM ENVIRONMENTAL VENTURES LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "ENTERPRISE FOUNDATION (KIRKLEES) LTD",
+ "group": 2
+},
+,
+{
+ "name": "NATIONAL CHILDREN'S CENTRE",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 14,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 15,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 16,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,63 @@
+{
+ "nodes": [
+{
+ "name": "IAN_DAVIDSON",
+ "group": 1
+},
+{
+ "name": "LANDWISE LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "135 KENNINGTON PARK ROAD LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "THE WISE GROUP",
+ "group": 2
+},
+,
+{
+ "name": "YES IN MAY 2011 LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "COMUNN NA GAIDHLIG LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,74 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_WARD",
+ "group": 1
+},
+{
+ "name": "POLLARD DEVELOPMENTS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BRADFORD CITY FC COMMUNITY FOUNDATION",
+ "group": 2
+},
+,
+{
+ "name": "THE BANTAMS COMMUNITY PROGRAMME",
+ "group": 2
+},
+,
+{
+ "name": "CAMSTON HOMES LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "NORTH WEST REGIONAL FUND LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "BRADFORD EDUCATION POLICY PARTNERSHIP",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+]
+}

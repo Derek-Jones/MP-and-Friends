@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "CAROLINE_NOKES",
+ "group": 1
+},
+{
+ "name": "THE MUSEUM OF THE PORT OF LONDON AND DOCKLANDS",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

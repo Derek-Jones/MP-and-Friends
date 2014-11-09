@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "ALISTAIR_DARLING",
+ "group": 1
+},
+{
+ "name": "ADAMS HOMES (YORKSHIRE) LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

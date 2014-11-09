@@ -1,0 +1,85 @@
+{
+ "nodes": [
+{
+ "name": "PETER_BOTTOMLEY",
+ "group": 1
+},
+{
+ "name": "SOUTH TYNESIDE INVESTMENTS LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "COMMONWEALTH PARLIAMENTARY ASSOCIATION (UNITED KINGDOM BRANCH)",
+ "group": 2
+},
+,
+{
+ "name": "NACRO", "NACRO",
+ "group": 2
+},
+,
+{
+ "name": "GROSVENOR HOUSE (WORTHING) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "APPIAN TECHNOLOGIES (UK) LIMITED",
+ "group": 2
+},
+,
+{
+ "name": "PBANDVB LTD",
+ "group": 2
+},
+,
+{
+ "name": "APPIAN TECHNOLOGY PLC",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+]
+}

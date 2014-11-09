@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "STEPHEN_MCPARTLAND",
+ "group": 1
+},
+{
+ "name": "REVOLUTION VENTURES LIMITED",
+ "group": 2
+},
+{
+ "name": "HEALTHAMIGO.COM LIMITED",
+ "group": 2
+},
+{
+ "name": "INTERNATIONAL MEDICAL TECHNOLOGIES LIMITED",
+ "group": 2
+},
+{
+ "name": "POCKET ENTERTAINMENT LTD",
+ "group": 2
+},
+{
+ "name": "VITAL IMAGING (EUROPE) LTD",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

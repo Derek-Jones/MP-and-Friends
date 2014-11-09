@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "JOHN_WHITTINGDALE",
+ "group": 1
+},
+{
+ "name": "TREAT STREET LIMITED",
+ "group": 2
+},
+{
+ "name": "LANTERNSTAR LIMITED",
+ "group": 2
+},
+{
+ "name": "CITY YMCA, LONDON",
+ "group": 2
+},
+{
+ "name": "YMCA LONDON SOUTH WEST",
+ "group": 2
+},
+{
+ "name": "14 MORETON PLACE FREEHOLD LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "ANDREW_BURNHAM",
+ "group": 1
+},
+{
+ "name": "BROUGH HALL MANAGEMENT COMPANY LIMITED",
+ "group": 2
+},
+{
+ "name": "A.E.S. ENGINEERING LIMITED",
+ "group": 2
+},
+{
+ "name": "CANYON RESEARCH LIMITED",
+ "group": 2
+},
+{
+ "name": "BROUGH PARK MANAGEMENT COMPANY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

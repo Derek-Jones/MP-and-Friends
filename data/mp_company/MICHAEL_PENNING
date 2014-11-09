@@ -1,0 +1,73 @@
+{
+ "nodes": [
+{
+ "name": "MICHAEL_PENNING",
+ "group": 1
+},
+{
+ "name": "CNP (UK) LIMITED",
+ "group": 2
+},
+{
+ "name": "IRAQ SAFETY LIMITED",
+ "group": 2
+},
+{
+ "name": "RAYBURN LIMITED",
+ "group": 2
+},
+{
+ "name": "CONSERVATIVES AGAINST A FEDERAL EUROPE LIMITED",
+ "group": 2
+},
+{
+ "name": "TIPTON DEVELOPMENTS LIMITED",
+ "group": 2
+},
+{
+ "name": "PARLIAMENTARY & MEDIA CONSULTANTS LIMITED",
+ "group": 2
+},
+{
+ "name": "EASTWOOD VIDEO FACTORY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+]
+}

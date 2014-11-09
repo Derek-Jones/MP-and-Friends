@@ -1,0 +1,73 @@
+{
+ "nodes": [
+{
+ "name": "PATRICK_MCFADDEN",
+ "group": 1
+},
+{
+ "name": "CROYDON BUSINESS LIMITED",
+ "group": 2
+},
+{
+ "name": "LONDON BOROUGHS ASSOCIATION LIMITED",
+ "group": 2
+},
+{
+ "name": "PURE CRETE LIMITED",
+ "group": 2
+},
+{
+ "name": "LONDON COUNCILS LIMITED",
+ "group": 2
+},
+{
+ "name": "PURE TRAVEL LIMITED",
+ "group": 2
+},
+{
+ "name": "EQUITY ADVERTISING AND PROMOTIONS LIMITED",
+ "group": 2
+},
+{
+ "name": "PURE AVIATION LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+]
+}

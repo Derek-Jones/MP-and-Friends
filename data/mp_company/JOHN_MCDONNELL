@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "JOHN_MCDONNELL",
+ "group": 1
+},
+{
+ "name": "TRAFFIC RESEARCH LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

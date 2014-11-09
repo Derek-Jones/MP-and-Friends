@@ -1,0 +1,118 @@
+{
+ "nodes": [
+{
+ "name": "IAN_LIDDELL-GRAINGER",
+ "group": 1
+},
+{
+ "name": "GLASGOW EAST WOMEN'S AID",
+ "group": 2
+},
+{
+ "name": "GRAINGER GROUP LIMITED",
+ "group": 2
+},
+{
+ "name": "OKEHAMPTON OK LIMITED",
+ "group": 2
+},
+{
+ "name": "PRESTIGE OFFICE DESIGN LIMITED",
+ "group": 2
+},
+{
+ "name": "GRAINGER NEWCASTLE PROPERTIES LIMITED",
+ "group": 2
+},
+{
+ "name": "LOTUS TRADING LIMITED",
+ "group": 2
+},
+{
+ "name": "B.N.I.B. COMMUNICATIONS LTD.",
+ "group": 2
+},
+{
+ "name": "BLUE ANCHOR RADIO LIMITED",
+ "group": 2
+},
+{
+ "name": "CAPE HOUSE NURSING HOME LIMITED",
+ "group": 2
+},
+{
+ "name": "ST. CUTHBERT NEWCASTLE ESTATES LIMITED",
+ "group": 2
+},
+{
+ "name": "MALIS LANE LIMITED",
+ "group": 2
+},
+{
+ "name": "CHANNEL RADIO LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+},
+]
+}

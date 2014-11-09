@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "ROSEMARY_COOPER",
+ "group": 1
+},
+{
+ "name": "NORTHAMPTON FASHIONS LIMITED",
+ "group": 2
+},
+{
+ "name": "SUPERMAC (MIDLANDS) LIMITED",
+ "group": 2
+},
+{
+ "name": "HOOKBRIDGE ENTERPRISES LIMITED",
+ "group": 2
+},
+{
+ "name": "ARNOLD ESTATES LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

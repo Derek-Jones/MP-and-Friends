@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "OWEN_PATERSON",
+ "group": 1
+},
+{
+ "name": "36 HEMINGFORD ROAD LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

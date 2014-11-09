@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "DIANE_ABBOTT",
+ "group": 1
+},
+{
+ "name": "BET SEFER LIMITED",
+ "group": 2
+},
+{
+ "name": "D945 LIMITED",
+ "group": 2
+},
+{
+ "name": "HERITAGE ISRAEL",
+ "group": 2
+},
+{
+ "name": "THE DIANE ABBOTT FOUNDATION",
+ "group": 2
+},
+{
+ "name": "SMITHVILLE ASSOCIATES LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

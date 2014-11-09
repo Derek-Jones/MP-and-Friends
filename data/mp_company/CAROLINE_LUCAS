@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "CAROLINE_LUCAS",
+ "group": 1
+},
+{
+ "name": "RYNESS ELECTRICAL SUPPLIES LIMITED",
+ "group": 2
+},
+{
+ "name": "RYNESS LIMITED",
+ "group": 2
+},
+{
+ "name": "LYONEDGE PROPERTIES LIMITED",
+ "group": 2
+},
+{
+ "name": "DEMOCRACY FOR YOUNG PEOPLE LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,64 @@
+{
+ "nodes": [
+{
+ "name": "LINDSAY_HOYLE",
+ "group": 1
+},
+{
+ "name": "COMMONWEALTH PARLIAMENTARY ASSOCIATION (UNITED KINGDOM BRANCH)",
+ "group": 2
+},
+{
+ "name": "CO-GAS SAFETY THE CARBON MONOXIDE AND GAS SAFETY SOCIETY",
+ "group": 2
+},
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+},
+{
+ "name": "THE EUROPEAN FOUNDATION",
+ "group": 2
+},
+{
+ "name": "CANADA-UNITED KINGDOM COUNCIL",
+ "group": 2
+},
+{
+ "name": "BRITANNIA PRESS FEATURES LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,64 @@
+{
+ "nodes": [
+{
+ "name": "KELVIN_HOPKINS",
+ "group": 1
+},
+{
+ "name": "CONSOLIDATED PR LIMITED",
+ "group": 2
+},
+{
+ "name": "PUBLIC POLICY UNIT LIMITED",
+ "group": 2
+},
+{
+ "name": "THE TRIDENT TRUST",
+ "group": 2
+},
+{
+ "name": "CONSOLIDATED PUBLIC RELATIONS LIMITED",
+ "group": 2
+},
+{
+ "name": "PLANSLOT PROPERTY MANAGEMENT LIMITED",
+ "group": 2
+},
+{
+ "name": "MARY SEACOLE MANAGEMENT LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+]
+}

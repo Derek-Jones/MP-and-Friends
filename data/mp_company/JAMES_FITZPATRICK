@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "JAMES_FITZPATRICK",
+ "group": 1
+},
+{
+ "name": "MUSEUMS LIBRARIES AND ARCHIVES LONDON",
+ "group": 2
+},
+{
+ "name": "COMMONWEALTH PARLIAMENTARY ASSOCIATION (UNITED KINGDOM BRANCH)",
+ "group": 2
+},
+{
+ "name": "CULLEN ENTERPRISES LIMITED",
+ "group": 2
+},
+{
+ "name": "ROYAL VICTORIA DOCK CENTRE TRUST",
+ "group": 2
+},
+{
+ "name": "GREENWICH + DOCKLANDS FESTIVALS",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

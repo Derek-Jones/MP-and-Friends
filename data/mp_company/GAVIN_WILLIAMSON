@@ -1,0 +1,82 @@
+{
+ "nodes": [
+{
+ "name": "GAVIN_WILLIAMSON",
+ "group": 1
+},
+{
+ "name": "LEWISHAM SCHOOLS FOR THE FUTURE SPV 2 LIMITED",
+ "group": 2
+},
+{
+ "name": "LEWISHAM SCHOOLS FOR THE FUTURE SPV LIMITED",
+ "group": 2
+},
+{
+ "name": "INVEST IN THAMES GATEWAY LONDON LIMITED",
+ "group": 2
+},
+{
+ "name": "SOUTH EAST ENTERPRISE LIMITED",
+ "group": 2
+},
+{
+ "name": "LEWISHAM SCHOOLS FOR THE FUTURE HOLDINGS LIMITED",
+ "group": 2
+},
+{
+ "name": "LEWISHAM SCHOOLS FOR THE FUTURE LEP LIMITED",
+ "group": 2
+},
+{
+ "name": "GREATER LONDON ENTERPRISE LIMITED",
+ "group": 2
+},
+{
+ "name": "LEWISHAM SCHOOLS FOR THE FUTURE HOLDINGS 2 LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+]
+}

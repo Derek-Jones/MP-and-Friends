@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "STUART_ANDREW",
+ "group": 1
+},
+{
+ "name": "DAVID JONES (SOLICITORS) LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

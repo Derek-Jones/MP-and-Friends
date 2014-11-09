@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "MICHAEL_PRISK",
+ "group": 1
+},
+{
+ "name": "CHELTENHAM BOURNSIDE SCHOOL AND SIXTH FORM CENTRE",
+ "group": 2
+},
+{
+ "name": "THE CHELTENHAM TRUST",
+ "group": 2
+},
+{
+ "name": "EYE RESEARCH UK",
+ "group": 2
+},
+{
+ "name": "BRITISH EYE RESEARCH FOUNDATION",
+ "group": 2
+},
+{
+ "name": "CHELTENHAM HOUSING AID CENTRE",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

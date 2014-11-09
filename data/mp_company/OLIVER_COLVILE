@@ -1,0 +1,55 @@
+{
+ "nodes": [
+{
+ "name": "OLIVER_COLVILE",
+ "group": 1
+},
+{
+ "name": "WOMEN'S SPORT AND FITNESS FOUNDATION",
+ "group": 2
+},
+{
+ "name": "COLVILE COMMUNICATIONS LIMITED",
+ "group": 2
+},
+{
+ "name": "POLITY COMMUNICATIONS LIMITED",
+ "group": 2
+},
+{
+ "name": "BANNER HEADLINES LIMITED",
+ "group": 2
+},
+{
+ "name": "MERTON ENTERPRISE AGENCY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+]
+}

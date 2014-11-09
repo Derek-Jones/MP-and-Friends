@@ -1,0 +1,118 @@
+{
+ "nodes": [
+{
+ "name": "IVAN_LEWIS",
+ "group": 1
+},
+{
+ "name": "DENBRACE LIMITED",
+ "group": 2
+},
+{
+ "name": "TELESIS MANAGEMENT LIMITED",
+ "group": 2
+},
+{
+ "name": "NEWMARK BROTHERS LIMITED",
+ "group": 2
+},
+{
+ "name": "APOLLO MANAGEMENT (UK) LIMITED",
+ "group": 2
+},
+{
+ "name": "TENDOWN LIMITED",
+ "group": 2
+},
+{
+ "name": "PARGLEN LIMITED",
+ "group": 2
+},
+{
+ "name": "STELLICAN LIMITED",
+ "group": 2
+},
+{
+ "name": "SPINMEAD LIMITED",
+ "group": 2
+},
+{
+ "name": "NEWMARK PARTNERS LIMITED",
+ "group": 2
+},
+{
+ "name": "G.W. FUTURES LTD.",
+ "group": 2
+},
+{
+ "name": "GOURLAY WOLFF & CO LIMITED",
+ "group": 2
+},
+{
+ "name": "STRATEGIC & CRITICAL MATERIALS LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,172 @@
+{
+ "nodes": [
+{
+ "name": "HENRY_BELLINGHAM",
+ "group": 1
+},
+{
+ "name": "FINJAN LIMITED",
+ "group": 2
+},
+{
+ "name": "HAWK COMMUNICATION INTERNATIONAL LIMITED",
+ "group": 2
+},
+{
+ "name": "CLIFTON PHARMACEUTICALS LIMITED",
+ "group": 2
+},
+{
+ "name": "MIRANDA MEDIA LIMITED",
+ "group": 2
+},
+{
+ "name": "MOLUCCA MEDIA LIMITED",
+ "group": 2
+},
+{
+ "name": "REDKELVIN.ORG", "REDKELVIN.ORG",
+ "group": 2
+},
+{
+ "name": "LANSDOWNE ADVISORY LIMITED",
+ "group": 2
+},
+{
+ "name": "POLICY RESEARCH UNIT LIMITED",
+ "group": 2
+},
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+},
+{
+ "name": "PATHFINDER MINERALS PLC",
+ "group": 2
+},
+{
+ "name": "SUSD ASSET MANAGEMENT (HOLDINGS) LIMITED",
+ "group": 2
+},
+{
+ "name": "THE GLENCARA ESTATE COMPANY",
+ "group": 2
+},
+{
+ "name": "PAN AFRICAN RESOURCES PLC",
+ "group": 2
+},
+{
+ "name": "LONGBOROUGH CAPITAL PLC.",
+ "group": 2
+},
+{
+ "name": "ADVANCED DIGITAL COMPONENTS LIMITED",
+ "group": 2
+},
+{
+ "name": "CHALLENGER OIL SERVICES LIMITED",
+ "group": 2
+},
+{
+ "name": "GLOBAL LAW SUMMIT LIMITED",
+ "group": 2
+},
+{
+ "name": "ENVIRONMENTAL RECYCLING TECHNOLOGIES PLC",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 14,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 15,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 16,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 17,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 18,
+ "value": 1
+},
+]
+}

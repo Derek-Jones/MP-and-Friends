@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "PETER_LILLEY",
+ "group": 1
+},
+{
+ "name": "WEST MIDLANDS ENTERPRISE LIMITED",
+ "group": 2
+},
+{
+ "name": "CO-OPERATION BLACK COUNTRY LTD",
+ "group": 2
+},
+{
+ "name": "EURO-HUB (BIRMINGHAM) LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,82 @@
+{
+ "nodes": [
+{
+ "name": "SIMON_HUGHES",
+ "group": 1
+},
+{
+ "name": "THE ORTHOPAEDIC INSTITUTE LIMITED",
+ "group": 2
+},
+{
+ "name": "ELLESMERE COMMUNITY CARE CENTRE TRUST",
+ "group": 2
+},
+{
+ "name": "PARSONS & SONS LIMITED",
+ "group": 2
+},
+{
+ "name": "THE BRITISH LEATHER COMPANY LIMITED",
+ "group": 2
+},
+{
+ "name": "WILDLOOP LIMITED",
+ "group": 2
+},
+{
+ "name": "SUEDECRAFT (LIVERPOOL) LIMITED",
+ "group": 2
+},
+{
+ "name": "THOMSON BROS (BIRKENHEAD) LIMITED",
+ "group": 2
+},
+{
+ "name": "LITHERLAND TANNING COMPANY LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+]
+}

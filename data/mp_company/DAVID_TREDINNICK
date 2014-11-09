@@ -1,0 +1,118 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_TREDINNICK",
+ "group": 1
+},
+{
+ "name": "FOOD FOUNDATION CIC",
+ "group": 2
+},
+{
+ "name": "GLOBAL ACTION PLAN",
+ "group": 2
+},
+{
+ "name": "CHINA DIALOGUE LTD",
+ "group": 2
+},
+{
+ "name": "SPRUCESPACE PROPERTY MANAGEMENT LIMITED",
+ "group": 2
+},
+{
+ "name": "POLICY CONNECT LIMITED",
+ "group": 2
+},
+{
+ "name": "NBFA ASSISTING THE ELDERLY",
+ "group": 2
+},
+{
+ "name": "THE CIVIC TRUST",
+ "group": 2
+},
+{
+ "name": "THE BRITISH GEORGIAN SOCIETY",
+ "group": 2
+},
+{
+ "name": "LSA COMMUNICATIONS LIMITED",
+ "group": 2
+},
+{
+ "name": "CHINA DIALOGUE TRUST",
+ "group": 2
+},
+{
+ "name": "OPENDEMOCRACY LIMITED",
+ "group": 2
+},
+{
+ "name": "THE OPENDEMOCRACY FOUNDATION FOR THE ADVANCEMENT OF GLOBAL EDUCATION",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+},
+]
+}

@@ -1,0 +1,28 @@
+{
+ "nodes": [
+{
+ "name": "MARY_CREAGH",
+ "group": 1
+},
+{
+ "name": "RENFREWSHIRE CARERS CENTRE",
+ "group": 2
+},
+{
+ "name": "THE YOUNG FOUNDATION",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+]
+}

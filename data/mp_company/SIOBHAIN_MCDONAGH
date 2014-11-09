@@ -1,0 +1,46 @@
+{
+ "nodes": [
+{
+ "name": "SIOBHAIN_MCDONAGH",
+ "group": 1
+},
+{
+ "name": "THE WESTMINSTER FOUNDATION FOR DEMOCRACY LIMITED",
+ "group": 2
+},
+{
+ "name": "MOVEMENT FOR EUROPEAN REFORM LIMITED",
+ "group": 2
+},
+{
+ "name": "MERTON ENTERPRISE AGENCY LIMITED",
+ "group": 2
+},
+{
+ "name": "MITCHAM GARDEN VILLAGE",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+]
+}

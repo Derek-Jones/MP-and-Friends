@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "GERALD_KAUFMAN",
+ "group": 1
+},
+{
+ "name": "RJMN LTD",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

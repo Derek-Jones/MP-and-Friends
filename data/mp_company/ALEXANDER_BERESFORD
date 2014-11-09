@@ -1,0 +1,28 @@
+{
+ "nodes": [
+{
+ "name": "ALEXANDER_BERESFORD",
+ "group": 1
+},
+{
+ "name": "INCORPORATED COUNCIL OF LAW REPORTING FOR ENGLAND AND WALES (THE)",
+ "group": 2
+},
+{
+ "name": "CHINA OXFORD SCHOLARSHIP FUND",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+]
+}

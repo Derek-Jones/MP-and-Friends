@@ -1,0 +1,37 @@
+{
+ "nodes": [
+{
+ "name": "ANDREW_TURNER",
+ "group": 1
+},
+{
+ "name": "BUSINESS ECO LOGIC LIMITED",
+ "group": 2
+},
+{
+ "name": "THE SILVER LINE HELPLINE",
+ "group": 2
+},
+{
+ "name": "GDST (ENTERPRISES) LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+]
+}

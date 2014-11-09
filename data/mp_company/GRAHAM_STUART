@@ -1,0 +1,28 @@
+{
+ "nodes": [
+{
+ "name": "GRAHAM_STUART",
+ "group": 1
+},
+{
+ "name": "AGRICULTURAL TECHNICAL AND TRADE SERVICES LIMITED",
+ "group": 2
+},
+{
+ "name": "10 PALACE GATE LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+]
+}

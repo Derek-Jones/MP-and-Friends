@@ -1,0 +1,28 @@
+{
+ "nodes": [
+{
+ "name": "ALOK_SHARMA",
+ "group": 1
+},
+{
+ "name": "PROPWISE.COM LIMITED",
+ "group": 2
+},
+{
+ "name": "THE LONDON EARLY YEARS FOUNDATION",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+]
+}

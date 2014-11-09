@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "STEPHEN_HAMMOND",
+ "group": 1
+},
+{
+ "name": "ENTERPRISE IN EUROPE LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+]
+}

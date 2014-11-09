@@ -1,0 +1,64 @@
+{
+ "nodes": [
+{
+ "name": "JOHN_HAYES",
+ "group": 1
+},
+{
+ "name": "FINANCIAL AND GENERAL LIMITED",
+ "group": 2
+},
+{
+ "name": "EXPAND RECRUITMENT LTD",
+ "group": 2
+},
+{
+ "name": "GREENHOUSE SPORTS LIMITED",
+ "group": 2
+},
+{
+ "name": "BAND-X LIMITED",
+ "group": 2
+},
+{
+ "name": "SANCROFT INTERNATIONAL LIMITED",
+ "group": 2
+},
+{
+ "name": "THE GLOBAL LEGISLATORS ORGANISATION (GLOBE) LIMITED",
+ "group": 2
+},
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+},
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+},
+]
+}

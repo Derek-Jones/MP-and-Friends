@@ -1,0 +1,63 @@
+{
+ "nodes": [
+{
+ "name": "PETER_LILLEY",
+ "group": 1
+},
+{
+ "name": "E-LOFT UK LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "TRADE OUT OF POVERTY",
+ "group": 2
+}
+,
+{
+ "name": "I-DOCUMENTSYSTEMS TRUSTEES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "EURO-HUB (BIRMINGHAM) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "IDOX PLC",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+]
+}

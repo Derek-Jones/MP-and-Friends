@@ -1,0 +1,41 @@
+{
+ "nodes": [
+{
+ "name": "ZAC_GOLDSMITH",
+ "group": 1
+},
+{
+ "name": "THE GREEN ALLIANCE TRUST",
+ "group": 2
+}
+,
+{
+ "name": "SESIWN FAWR DOLGELLAU",
+ "group": 2
+}
+,
+{
+ "name": "THE RAINFOREST FOUNDATION (UK)",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+]
+}

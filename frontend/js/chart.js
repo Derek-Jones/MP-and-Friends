@@ -13,8 +13,15 @@ var svg = d3.select("#chartCanvas").append("svg")
     .attr("height", height);
 
 
-function d3LoadData(jsonFile){
+function d3LoadData(jsonFile, errorFunc, successFunc){
     d3.json(jsonFile, function(error, graph) {
+
+        if (error) {
+            console.warn(error);
+            errorFunc(error);
+            return;
+        }
+
         force
             .nodes(graph.nodes)
             .links(graph.links)
@@ -49,6 +56,9 @@ function d3LoadData(jsonFile){
             node.attr("cx", function(d) { return d.x; })
                 .attr("cy", function(d) { return d.y; });
         });
+
+
+        successFunc();
 
         function popup(d){
             console.log(d);

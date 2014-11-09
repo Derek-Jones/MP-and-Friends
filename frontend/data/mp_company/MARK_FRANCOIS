@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "MARK_FRANCOIS",
+ "group": 1
+},
+{
+ "name": "ASSURANT GENERAL INSURANCE LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

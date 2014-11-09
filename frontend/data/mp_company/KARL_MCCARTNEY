@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "KARL_MCCARTNEY",
+ "group": 1
+},
+{
+ "name": "THE CANON COLLINS EDUCATIONAL AND LEGAL ASSISTANCE TRUST",
+ "group": 2
+}
+,
+{
+ "name": "MOONLIGHTING SYSTEMS LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

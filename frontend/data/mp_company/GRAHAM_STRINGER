@@ -1,0 +1,74 @@
+{
+ "nodes": [
+{
+ "name": "GRAHAM_STRINGER",
+ "group": 1
+},
+{
+ "name": "THE MANCHESTER CONCERT HALL LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MANCHESTER SHIP CANAL DEVELOPMENTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "RINGWAY HOTELS (HOLDINGS) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "HULME REGENERATION LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "COMMONWEALTH PARTNERSHIP FOR TECHNOLOGY MANAGEMENT LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MANCHESTER CENTRAL CONVENTION COMPLEX LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+]
+}

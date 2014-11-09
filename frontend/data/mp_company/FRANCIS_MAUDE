@@ -1,0 +1,228 @@
+{
+ "nodes": [
+{
+ "name": "FRANCIS_MAUDE",
+ "group": 1
+},
+{
+ "name": "HUNTSWORTH PLC",
+ "group": 2
+}
+,
+{
+ "name": "MEDIASURFACE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "EASTSIDE YOUNG LEADERS ACADEMY",
+ "group": 2
+}
+,
+{
+ "name": "THE MISSION MARKETING GROUP PUBLIC LIMITED COMPANY",
+ "group": 2
+}
+,
+{
+ "name": "SPECTATOR (1828) LIMITED(THE)",
+ "group": 2
+}
+,
+{
+ "name": "PUBLIC POLICY UNIT LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "JUBILEE INVESTMENT TRUST PLC",
+ "group": 2
+}
+,
+{
+ "name": "SPORTFACT LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "BATH STREET DEVELOPMENTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MORGAN STANLEY & CO. LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "PRESTBURY HOLDINGS PLC",
+ "group": 2
+}
+,
+{
+ "name": "BENFIELD LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "PERFORMING BUSINESS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "POLICY EXCHANGE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE CONSERVATIVE PARTY FOUNDATION LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "IG COMMUNICATIONS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "BRIGHTON COLLEGE",
+ "group": 2
+}
+,
+{
+ "name": "GLOBALINK TELECOMMUNICATIONS INTERNATIONAL LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "POLICY ANALYSIS CENTRE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "DYNAMIS LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 14,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 15,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 16,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 17,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 18,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 19,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 20,
+ "value": 1
+}
+]
+}

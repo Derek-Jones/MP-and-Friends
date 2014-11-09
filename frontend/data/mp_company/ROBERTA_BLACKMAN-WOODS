@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "ROBERTA_BLACKMAN-WOODS",
+ "group": 1
+},
+{
+ "name": "FILM & TELEVISION COMMISSION @ NORTH WEST ENGLAND",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

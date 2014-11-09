@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "EDWARD_DAVEY",
+ "group": 1
+},
+{
+ "name": "JOBS AND BUSINESS GLASGOW",
+ "group": 2
+}
+,
+{
+ "name": "KIDS OUT UK",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

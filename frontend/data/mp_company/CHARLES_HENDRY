@@ -1,0 +1,85 @@
+{
+ "nodes": [
+{
+ "name": "CHARLES_HENDRY",
+ "group": 1
+},
+{
+ "name": "THE AGENDA CONSULTANCY LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "DEMOCRACY FOR YOUNG PEOPLE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LARKHALL MANAGEMENT COMPANY LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE BIG ISSUE FOUNDATION",
+ "group": 2
+}
+,
+{
+ "name": "LIFELINES (UK) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE NATIONAL INSTITUTE OF ADULT CONTINUING EDUCATION (ENGLAND AND WALES)",
+ "group": 2
+}
+,
+{
+ "name": "DRIVE FOR YOUTH PROGRAMME LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+]
+}

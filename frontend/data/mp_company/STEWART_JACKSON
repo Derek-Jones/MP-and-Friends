@@ -1,0 +1,74 @@
+{
+ "nodes": [
+{
+ "name": "STEWART_JACKSON",
+ "group": 1
+},
+{
+ "name": "MAGDALEN HALL COMPANY LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "GROWBOROUGH LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LANTERNSTAR LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CITY YMCA, LONDON",
+ "group": 2
+}
+,
+{
+ "name": "REGEN ASPIRE LTD",
+ "group": 2
+}
+,
+{
+ "name": "TREAT STREET LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+]
+}

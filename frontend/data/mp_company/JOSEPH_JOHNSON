@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "JOSEPH_JOHNSON",
+ "group": 1
+},
+{
+ "name": "THE SMALL BUSINESS BUREAU LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

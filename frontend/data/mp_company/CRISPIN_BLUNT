@@ -1,0 +1,52 @@
+{
+ "nodes": [
+{
+ "name": "CRISPIN_BLUNT",
+ "group": 1
+},
+{
+ "name": "CONNAUGHT SEARCH SOLUTIONS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "SWEDISH FOLK HIGH SCHOOL(THE)",
+ "group": 2
+}
+,
+{
+ "name": "CO-GAS SAFETY THE CARBON MONOXIDE AND GAS SAFETY SOCIETY",
+ "group": 2
+}
+,
+{
+ "name": "THE COUNCIL FOR THE ADVANCEMENT OF ARAB-BRITISH UNDERSTANDING",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,52 @@
+{
+ "nodes": [
+{
+ "name": "WILLIAM_CASH",
+ "group": 1
+},
+{
+ "name": "DOSSI LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "THE EUROPEAN FOUNDATION",
+ "group": 2
+}
+,
+{
+ "name": "THE EMPIRE PACKET COMPANY LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "STAFFORD ENTERPRISE LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+]
+}

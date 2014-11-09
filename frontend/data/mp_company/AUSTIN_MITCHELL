@@ -1,0 +1,74 @@
+{
+ "nodes": [
+{
+ "name": "AUSTIN_MITCHELL",
+ "group": 1
+},
+{
+ "name": "TRIANGULAR MEDIAN LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "RADIO YORKSHIRE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "WHITE ROSE RADIO LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "PENNINE HERITAGE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "F&C EMERGING MARKETS INVESTMENT TRUST PLC",
+ "group": 2
+}
+,
+{
+ "name": "YORKSHIRE AND HUMBER SEAFOOD GROUP LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+]
+}

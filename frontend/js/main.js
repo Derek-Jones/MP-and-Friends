@@ -1,7 +1,7 @@
 angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
     .controller("openDataCtrl", ["$scope", "$http", "$location", "$filter", "$document", function ($scope, $http, $location, $filter, $document) {
 
-        $scope.radioModel = 'postcode';
+        $scope.radioModel = 'mp';
 
         function openDataViewModel() {
             var self = this;
@@ -21,7 +21,7 @@ angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
             self.party = "";
             self.twitter = "";
             self.autoCompleteFullName = "";
-            self.isPostcode=true;
+            self.isPostcode=false;
 
 
             self.searchInput = "";
@@ -99,10 +99,10 @@ angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
                             self.twitter = value.twitter;
 
                             console.log( self);
-                            self.loadGraph();
+                            //self.loadGraph();
+                            self.loadChartByFullName();
                             $("#progressbar").hide();
 
-                            $document.scrollToElement(graphElement, 10, 2000);
 
 
                         }
@@ -114,7 +114,12 @@ angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
             }
 
             self.loadChartByFullName = function () {
-                alert(self.fullName.toLocaleLowerCase().replace(" ","_"));
+
+                d3LoadData("data/mp_company/"+self.givenName.toLocaleUpperCase()+"_"+self.familyName.toLocaleUpperCase(), function(){
+                    alert("Unable to find company related with MP " + self.fullName);
+                }, function(){
+                    $document.scrollToElement(graphElement, 10, 2000);
+                });
             }
 
 
@@ -158,9 +163,9 @@ angular.module("openDataApp", ['ui.bootstrap', 'duScroll'])
                             self.twitter = value.twitter;
 
                             console.log( self);
-                            self.loadGraph();
+                           // self.loadGraph();
+                            self.loadChartByFullName();
                             $("#progressbar").hide();
-                            $document.scrollToElement(graphElement, 10, 2000);
                         }
                     }
                     catch (err) {

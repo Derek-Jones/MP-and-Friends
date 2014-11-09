@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "ANDREW_SELOUS",
+ "group": 1
+},
+{
+ "name": "C.N.S. INSTRUMENTS LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

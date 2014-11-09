@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "GERALD_KAUFMAN",
+ "group": 1
+},
+{
+ "name": "RJMN LTD",
+ "group": 2
+}
+,
+{
+ "name": "THE PERFORMING RIGHT SOCIETY FOUNDATION",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

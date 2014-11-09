@@ -1,0 +1,107 @@
+{
+ "nodes": [
+{
+ "name": "ANDREW_MITCHELL",
+ "group": 1
+},
+{
+ "name": "MILLER EXECUTIVE PENSION SCHEME TRUSTEES LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MILLER INSURANCE INVESTMENTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "INTERNATIONAL INSPIRATION",
+ "group": 2
+}
+,
+{
+ "name": "L&P 34 LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MILLER E.T. LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "PUNCH TAVERNS (CMG) LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "ALEXANDRA ROSE CHARITIES LTD",
+ "group": 2
+}
+,
+{
+ "name": "OUR DEMOCRATIC HERITAGE",
+ "group": 2
+}
+,
+{
+ "name": "LAZARD & CO., HOLDINGS LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+]
+}

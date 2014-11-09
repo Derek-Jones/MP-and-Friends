@@ -1,0 +1,63 @@
+{
+ "nodes": [
+{
+ "name": "JAMES_HOWARTH",
+ "group": 1
+},
+{
+ "name": "TASKFORCE COMMUNICATIONS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "VULCAN TO THE SKY TRUST",
+ "group": 2
+}
+,
+{
+ "name": "THE MILITARY AND AEROSPACE MUSEUMS (ALDERSHOT) TRUST",
+ "group": 2
+}
+,
+{
+ "name": "CIVIC AND REGIONAL PUBLICATIONS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "GRANTHAM ROAD MANAGEMENT COMPANY LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+]
+}

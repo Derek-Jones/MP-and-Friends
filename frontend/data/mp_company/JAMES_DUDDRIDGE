@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "JAMES_DUDDRIDGE",
+ "group": 1
+},
+{
+ "name": "DIGARTREF YNYS MON CYF.",
+ "group": 2
+}
+,
+{
+ "name": "OKAVANGO LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

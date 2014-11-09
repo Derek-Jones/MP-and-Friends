@@ -1,0 +1,41 @@
+{
+ "nodes": [
+{
+ "name": "ANNETTE_BROOKE",
+ "group": 1
+},
+{
+ "name": "UNITED YOUTH DEVELOPMENT ORGANIZATION",
+ "group": 2
+}
+,
+{
+ "name": "VIOLET PRODUCTIONS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "ANSBURY", "ANSBURY",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+]
+}

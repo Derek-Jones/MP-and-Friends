@@ -1,0 +1,30 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_CAMERON",
+ "group": 1
+},
+{
+ "name": "LOCALIS RESEARCH LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "TWENTY-SIX LANSDOWNE CRESCENT LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+]
+}

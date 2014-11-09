@@ -1,0 +1,19 @@
+{
+ "nodes": [
+{
+ "name": "ANDREW_ROBATHAN",
+ "group": 1
+},
+{
+ "name": "PORTBEREN LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+]
+}

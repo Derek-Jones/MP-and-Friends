@@ -1,0 +1,41 @@
+{
+ "nodes": [
+{
+ "name": "ALEXANDER_RANDALL",
+ "group": 1
+},
+{
+ "name": "HUMAN TRAFFICKING FOUNDATION",
+ "group": 2
+}
+,
+{
+ "name": "SHERWOOD TELEVISION LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "RANDALLS OF UXBRIDGE LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+]
+}

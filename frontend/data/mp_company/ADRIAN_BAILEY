@@ -1,0 +1,41 @@
+{
+ "nodes": [
+{
+ "name": "ADRIAN_BAILEY",
+ "group": 1
+},
+{
+ "name": "CO-OPERATION BLACK COUNTRY LTD",
+ "group": 2
+}
+,
+{
+ "name": "NATIONAL INSTITUTE OF ECONOMIC AND SOCIAL RESEARCH(INCORPORATED)(THE)",
+ "group": 2
+}
+,
+{
+ "name": "WEST MIDLANDS ENTERPRISE LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+]
+}

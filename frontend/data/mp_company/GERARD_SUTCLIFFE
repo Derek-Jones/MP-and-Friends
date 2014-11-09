@@ -1,0 +1,74 @@
+{
+ "nodes": [
+{
+ "name": "GERARD_SUTCLIFFE",
+ "group": 1
+},
+{
+ "name": "OK BULLS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LEEDS ENTERPRISE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "ENGLAND 2018/2022 BIDDING NATION LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "BRADFORD INDEPENDENT LABOUR PARTY CENTENARY CELEBRATION TRUST LTD",
+ "group": 2
+}
+,
+{
+ "name": "WOODLANDS SCHOOLS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "BRADFORD CITY FC COMMUNITY FOUNDATION",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+]
+}

@@ -1,0 +1,74 @@
+{
+ "nodes": [
+{
+ "name": "LORELY_BURT",
+ "group": 1
+},
+{
+ "name": "KUDOS INNS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CAMPUS PROMOTIONAL LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "QUANTUM PARTNERS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "KUDOS LEISURE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MICHAEL SAINT DEVELOPMENTS LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MANSION HOUSE LEGAL SERVICES LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+]
+}

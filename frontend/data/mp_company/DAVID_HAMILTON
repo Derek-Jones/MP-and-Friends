@@ -1,0 +1,151 @@
+{
+ "nodes": [
+{
+ "name": "DAVID_HAMILTON",
+ "group": 1
+},
+{
+ "name": "MIDLOTHIAN INNOVATION AND TECHNOLOGY TRUST",
+ "group": 2
+}
+,
+{
+ "name": "LOTHIAN INVESTMENT FUND FOR ENTERPRISE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "SCOTTISH ENTERPRISE EDINBURGH AND LOTHIAN",
+ "group": 2
+}
+,
+{
+ "name": "PACIFIC SHELF 826 LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "NATIONAL MINING MUSEUM SCOTLAND TRUST",
+ "group": 2
+}
+,
+{
+ "name": "CRAIGMILLAR DEVELOPMENT AND ENTERPRISE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "LINKFORCE SCOTLAND LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MIDLOTHIAN INNOVATION CENTRE LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "DALKEITH BUSINESS RENEWAL",
+ "group": 2
+}
+,
+{
+ "name": "W L VENTURES GROUP LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "MIDLOTHIAN AND EAST LOTHIAN CHAMBER OF COMMERCE",
+ "group": 2
+}
+,
+{
+ "name": "OCULUS INSIGHT LIMITED",
+ "group": 2
+}
+,
+{
+ "name": "CRE8TE OPPORTUNITIES LIMITED",
+ "group": 2
+}
+],
+ "links": [
+{
+ "source": 0,
+ "target": 1,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 2,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 3,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 4,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 5,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 6,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 7,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 8,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 9,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 10,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 11,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 12,
+ "value": 1
+}
+,
+{
+ "source": 0,
+ "target": 13,
+ "value": 1
+}
+]
+}

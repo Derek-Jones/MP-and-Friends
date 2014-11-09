@@ -40,14 +40,15 @@
         <script src="js/main.js"></script>
         <script>
             angular.module("openDataApp", [])
-                    .controller("openDataCtrl", ["$scope", "$http","$location", function ($scope, $http,$location) {
+                    .controller("openDataCtrl", ["$scope", "$http","$location","$filter", function ($scope, $http,$location,$filter) {
 
                         function openDataViewModel() {
                             var self = this;
 
                             self.title = "yayaya";
-                            self.postcode="";
+                            self.postcode="ox145hw";
                             self.constituency="";
+                            self.mpList=[];
 
                             self.postcodeSearch = function(){
 
@@ -69,30 +70,47 @@
 
 
                             self.mpSearch =function(){
-                                url="http://lda.data.parliament.uk/commonsmembers.json?_properties=familyName,fullName,party,constituency&_view=basic&_page=0&_pageSize=500";
-
+                                url="http://lda.data.parliament.uk/commonsmembers.json?_properties=familyName,fullName,constituency.label,birthDate,givenName,twitter,gender,party,homePage,constituency.prefLabel&_view=basic&_page=0&_pageSize=500";
                                 var httpRequest =  $http({
                                     method: "GET",
                                     url: url
                                 });
                                 httpRequest.success(function (data, status, headers, config) {
+                                    self.mpList = data;
                                     console.log(data);
 
                                 });
 
                             }
 
-
                             self.mpFilter =function(){
-                                alert("filter");
+
+                                console.log(self.mpList.result.items[0].constituency.label._value);
+
+                                angular.forEach(self.mpList.result.items, function(value, key) {
+                                    t =value.constituency.label
+
+
+                                    try {
+
+                                        if(value.constituency.label._value==self.constituency){
+                                            console.log(value);
+                                        }
+                                    }
+                                    catch(err) {
+
+                                    }
+
+
+
+                                });
                             }
                         }
 
-
-
                         angular.element(document).ready(function () {
                             $scope.model = new openDataViewModel();
-
+                            $scope.model.mpSearch();
+                            $scope.model.postcodeSearch();
                             console.log("test");
                             $scope.$digest();
                         });

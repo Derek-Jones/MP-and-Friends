@@ -65,7 +65,7 @@ for (i in 1:nrow(mps.metadata)) {
 
 # codirectors <- co_directors(directors)
 
-get_codirectors(directors) {
+get_codirectors <- function(directors) {
   codirectors <- NA
   for (i in 1:length(directors1)) {
     if (!is.na(directors[[i]])) {

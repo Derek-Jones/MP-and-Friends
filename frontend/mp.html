@@ -11,6 +11,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
     <script src="js/vendor//d3.v3.min.js"></script>
     <script src="js/ui-bootstrap-tpls-0.11.2.min.js"></script>
+    <script src="js/vendor/angular-scroll.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
     <link rel="stylesheet" href="css/normalize.css">
@@ -54,7 +55,7 @@
                        typeahead-template-url="customTemplate.html" style="width:350px;" ng-show="!model.isPostcode">
             </div>
             <div class="search-box-btn">
-                <div class="glyphicon glyphicon-search" ng-click="model.search()"></div>
+                <div class="glyphicon glyphicon-search" ng-click="model.search(); $document.scrollToElement('.content-graph')"></div>
             </div>
             <img src="img/ajax-loader.gif" style="display: none" id="progressbar"/>
         </div>

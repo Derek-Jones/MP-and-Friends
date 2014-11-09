@@ -50,8 +50,8 @@
       <file leaf-file-name="mp.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-33.32143" vertical-offset="169" max-vertical-offset="1805">
-              <caret line="58" column="80" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="80" />
+            <state vertical-scroll-proportion="-11.535714" vertical-offset="760" max-vertical-offset="1824">
+              <caret line="57" column="92" selection-start-line="57" selection-start-column="92" selection-end-line="57" selection-end-column="92" />
               <folding>
                 <element signature="n#style#0;n#input#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,21 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_mps.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/new_mps.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="182913">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7876506" vertical-offset="2327" max-vertical-offset="3382">
-              <caret line="150" column="50" selection-start-line="150" selection-start-column="50" selection-end-line="150" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.37198794" vertical-offset="1843" max-vertical-offset="3382">
+              <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -107,8 +97,9 @@
         <option value="$PROJECT_DIR$/demo-graph.html" />
         <option value="$PROJECT_DIR$/js/chart.js" />
         <option value="$PROJECT_DIR$/data/mps.json" />
-        <option value="$PROJECT_DIR$/mp.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/mp.html" />
+        <option value="$PROJECT_DIR$/data/new_mps.json" />
       </list>
     </option>
   </component>
@@ -223,8 +214,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Hackathon\MP-and-Friends\frontend\data" />
       <recent name="D:\Hackathon\MP-and-Friends\frontend\js\vendor" />
+      <recent name="D:\Hackathon\MP-and-Friends\frontend\data" />
       <recent name="D:\Hackathon\MP-and-Friends\frontend" />
       <recent name="D:\xampp\htdocs\HackHtmlPrototype\js\vendor" />
     </key>
@@ -286,7 +277,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="842" extended-state="7" />
+    <frame x="-8" y="-8" width="1552" height="842" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -507,10 +498,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/angular-scroll.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="692">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/new_mps.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67355984" vertical-offset="779" max-vertical-offset="143564">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.32143" vertical-offset="169" max-vertical-offset="1805">
-          <caret line="58" column="80" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="80" />
+        <state vertical-scroll-proportion="-11.535714" vertical-offset="760" max-vertical-offset="1824">
+          <caret line="57" column="92" selection-start-line="57" selection-start-column="92" selection-end-line="57" selection-end-column="92" />
           <folding>
             <element signature="n#style#0;n#input#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -518,18 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/new_mps.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="182913">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7876506" vertical-offset="2327" max-vertical-offset="3382">
-          <caret line="150" column="50" selection-start-line="150" selection-start-column="50" selection-end-line="150" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.37198794" vertical-offset="1843" max-vertical-offset="3382">
+          <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
           <folding />
         </state>
       </provider>

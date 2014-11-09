@@ -10,6 +10,8 @@ angular.module("openDataApp", ['ui.bootstrap'])
 		self.postcode="ox145hw";
 		self.constituency="";
 		self.mpList=[];
+		self.mpInfo=null;
+		self.searchInput="";
 
 		self.postcodeSearch = function(){
 
@@ -21,14 +23,25 @@ angular.module("openDataApp", ['ui.bootstrap'])
 				url: "http://lpanoview.lookfor.hk/hack/postcodeSearch?postcode="+str
 			});
 			httpRequest.success(function (data, status, headers, config) {
-				console.log(data);
+			
 				self.constituency=data.administrative.constituency.title;
-				console.log(data.administrative.constituency.title);
+				self.mpFilter();
+				
 			});
 
 		}
 
+self.search =function(){
 
+		if($scope.radioModel == 'postcode'){
+			self.postcode=self.searchInput;
+		self.postcodeSearch();
+
+		}else{
+			console.log("mp");
+			console.log(self.postcode);
+		}
+}
 
 		self.mpSearch =function(){
 			url="http://lda.data.parliament.uk/commonsmembers.json?_properties=familyName,fullName,constituency.label,birthDate,givenName,twitter,gender,party,homePage,constituency.prefLabel&_view=basic&_page=0&_pageSize=500";
@@ -38,7 +51,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
 			});
 			httpRequest.success(function (data, status, headers, config) {
 				self.mpList = data;
-				console.log(data);
+			//	console.log(data);
 
 			});
 
@@ -46,16 +59,18 @@ angular.module("openDataApp", ['ui.bootstrap'])
 
 		self.mpFilter =function(){
 
-			console.log(self.mpList.result.items[0].constituency.label._value);
+		//	console.log(self.mpList.result.items[0].constituency.label._value);
 
 			angular.forEach(self.mpList.result.items, function(value, key) {
-				t =value.constituency.label
-
+			
 
 					try {
 
 						if(value.constituency.label._value==self.constituency){
 							console.log(value);
+self.mpInfo=value;
+self.searchInput=value.fullName;
+
 						}
 					}
 				catch(err) {
@@ -72,7 +87,7 @@ angular.module("openDataApp", ['ui.bootstrap'])
 		$scope.model = new openDataViewModel();
 		$scope.model.mpSearch();
 		$scope.model.postcodeSearch();
-		console.log("test");
+	//	console.log("test");
 		$scope.$digest();
 	});
 

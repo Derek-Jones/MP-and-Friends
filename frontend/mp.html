@@ -15,9 +15,12 @@
 	<link rel="stylesheet" href="css/normalize.css">
 	<link rel="stylesheet" href="css/main.css">
 	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+
+
 </head>
-<body>
-	<div class="wrapper" ng-app="openDataApp" ng-controller="openDataCtrl">
+<body ng-app="openDataApp" ng-controller="openDataCtrl">
+	<div class="wrapper" >
 		<div class="content-search content-wrapper">
 			<div class="session-title">MP & FRIENDS</div>
 			<div class="find-data-ctrl btn-group">
@@ -25,8 +28,8 @@
 				<label class="btn btn-primary ctrl-btn ctrl-btn-2 ctrl-btn-by-MP" ng-model="radioModel" btn-radio="'mp'">BY MP</label>
 			</div>
 			<div class="search-box">
-				<div class="search-box-inner"><input type="text" name="search-box-input" id="search-box-input" /></div>
-				<div class="search-box-btn"><div class="glyphicon glyphicon-search"></div></div>
+				<div class="search-box-inner"><input type="text" name="search-box-input" id="search-box-input" ng-model="model.searchInput"  /></div>
+				<div class="search-box-btn"><div class="glyphicon glyphicon-search" ng-click="model.search()"></div></div>
 			</div>
 		</div>
 		<div class="content-graph content-wrapper">

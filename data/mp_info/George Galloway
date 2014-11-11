@@ -1,0 +1,256 @@
+[
+ [
+ {
+ "id": 3.8648e+07,
+"name": "GEORGE GALLOWAY",
+"position": "secretary",
+"uid": null,
+"start_date": "1996-07-01",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/38647760",
+"inactive": true,
+"industry_code": "NA",
+"company_link": "https://api.opencorporates.com/companies/gb/03218982" 
+},
+{
+ "id": 3.8648e+07,
+"name": "GEORGE GALLOWAY",
+"position": "director",
+"uid": null,
+"start_date": "1996-07-01",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/38647763",
+"inactive": true,
+"industry_code": "NA",
+"company_link": "https://api.opencorporates.com/companies/gb/03218982" 
+} 
+],
+[
+ {
+ "id": 4.7332e+07,
+"name": "DAVID BENJAMIN MOXHAM",
+"position": "secretary",
+"uid": null,
+"start_date": "2002-09-04",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/47331534",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/SC236383" 
+},
+{
+ "id": 4.7332e+07,
+"name": "MALCOLM MACAULAY BURNS",
+"position": "director",
+"uid": null,
+"start_date": "2002-09-04",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/47331535",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/SC236383" 
+},
+{
+ "id": 4.7332e+07,
+"name": "JOHN BROWN CRAIG",
+"position": "director",
+"uid": null,
+"start_date": "2002-09-04",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/47331536",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/SC236383" 
+},
+{
+ "id": 4.7332e+07,
+"name": "MARK ANDREW CRAIG",
+"position": "director",
+"uid": null,
+"start_date": "2002-09-04",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/47331537",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/SC236383" 
+},
+{
+ "id": 4.7332e+07,
+"name": "GEORGE GALLOWAY",
+"position": "director",
+"uid": null,
+"start_date": "2002-09-04",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/47331538",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/SC236383" 
+},
+{
+ "id": 4.7332e+07,
+"name": "DAVID BENJAMIN MOXHAM",
+"position": "director",
+"uid": null,
+"start_date": "2002-09-04",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/47331539",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/SC236383" 
+} 
+],
+[
+ {
+ "id": 3.9427e+07,
+"name": "AYESHA BAJWA",
+"position": "secretary",
+"uid": null,
+"start_date": "2008-02-01",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/39427403",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/04140088" 
+},
+{
+ "id": 3.9427e+07,
+"name": "GEORGE GALLOWAY",
+"position": "director",
+"uid": null,
+"start_date": "2001-01-12",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/39427406",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/04140088" 
+},
+{
+ "id": 1.1002e+08,
+"name": "AMINEH ABU ZAYYAD",
+"position": "secretary",
+"uid": null,
+"start_date": "2001-01-12",
+"end_date": "2008-02-01",
+"opencorporates_url": "https://opencorporates.com/officers/110023563",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/04140088" 
+},
+{
+ "id": 1.1002e+08,
+"name": " HALLMARK SECRETARIES LIMITED",
+"position": "nominated secretary",
+"uid": null,
+"start_date": "2001-01-12",
+"end_date": "2001-01-12",
+"opencorporates_url": "https://opencorporates.com/officers/110023564",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/04140088" 
+},
+{
+ "id": 1.1002e+08,
+"name": " HALLMARK REGISTRARS LIMITED",
+"position": "nominated director",
+"uid": null,
+"start_date": "2001-01-12",
+"end_date": "2001-01-12",
+"opencorporates_url": "https://opencorporates.com/officers/110023565",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/04140088" 
+} 
+],
+[
+ {
+ "id": 3.6774e+07,
+"name": "AMINGH ABU ZAYYAD",
+"position": "secretary",
+"uid": null,
+"start_date": "1995-07-12",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/36773535",
+"inactive": true,
+"industry_code": "NA",
+"company_link": "https://api.opencorporates.com/companies/gb/02879024" 
+},
+{
+ "id": 3.6774e+07,
+"name": "GEORGE GALLOWAY",
+"position": "director",
+"uid": null,
+"start_date": "1995-07-12",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/36773537",
+"inactive": true,
+"industry_code": "NA",
+"company_link": "https://api.opencorporates.com/companies/gb/02879024" 
+} 
+],
+[
+ {
+ "id": 3.8648e+07,
+"name": "GEORGE GALLOWAY",
+"position": "secretary",
+"uid": null,
+"start_date": "1996-07-01",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/38647760",
+"inactive": true,
+"industry_code": "NA",
+"company_link": "https://api.opencorporates.com/companies/gb/03218982" 
+},
+{
+ "id": 3.8648e+07,
+"name": "GEORGE GALLOWAY",
+"position": "director",
+"uid": null,
+"start_date": "1996-07-01",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/38647763",
+"inactive": true,
+"industry_code": "NA",
+"company_link": "https://api.opencorporates.com/companies/gb/03218982" 
+} 
+],
+[
+ {
+ "id": 5.1231e+07,
+"name": "GEORGE GALLOWAY",
+"position": "director",
+"uid": null,
+"start_date": "2007-09-07",
+"end_date": "2013-05-13",
+"opencorporates_url": "https://opencorporates.com/officers/51231146",
+"inactive": false,
+"industry_code": "UK SIC Codes 2007",
+"company_link": "https://api.opencorporates.com/companies/gb/06364580" 
+},
+{
+ "id": 7.0641e+07,
+"name": "AYESHA BAJWA",
+"position": "secretary",
+"uid": null,
+"start_date": "2007-09-07",
+"end_date": "2012-04-30",
+"opencorporates_url": "https://opencorporates.com/officers/70641496",
+"inactive": false,
+"industry_code": "UK SIC Codes 2007",
+"company_link": "https://api.opencorporates.com/companies/gb/06364580" 
+} 
+],
+[
+ {
+ "id": 5.4409e+07,
+"name": "GEORGE GALLOWAY",
+"position": "director",
+"uid": null,
+"start_date": "2012-02-17",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/54409449",
+"inactive": false,
+"industry_code": "NA",
+"company_link": "https://api.opencorporates.com/companies/gb/07953031" 
+} 
+] 
+]

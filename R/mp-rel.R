@@ -1,4 +1,4 @@
-# mp-rel.R,  8 Nov 14
+# mp-rel.R, 10 Nov 14
 #
 
 library("igraph")
@@ -112,10 +112,11 @@ t=lapply(all_officers,
 		{
 		df$officer$inactive=ct$results$company$inactive
 		if (length(ct$results$company$industry_codes) > 0)
-		   df$officer$industry_code=ct$results$company$industry_codes[[1]]$industry_code[3]
+		   df$officer$industry_code=as.character(ct$results$company$industry_codes[[1]]$industry_code[3])
 		else
 		   df$officer$industry_code="NA"
-		return(df)
+		df$officer$company_link=paste0("https://api.opencorporates.com/companies/gb/", company_num)
+		return(df$officer)
 		})
 
 return(t)

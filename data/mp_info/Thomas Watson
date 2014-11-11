@@ -1,0 +1,124 @@
+[
+ [
+ {
+ "id": 3.4332e+07,
+"name": "FREDERICK WILLIAM MOSS",
+"position": "secretary",
+"uid": null,
+"start_date": "1991-12-31",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331928",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "WILLIAM JOSEPH CONNOR",
+"position": "director",
+"uid": null,
+"start_date": "1997-07-21",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331930",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "JOHN WALTER EDMONDS",
+"position": "director",
+"uid": null,
+"start_date": "1991-12-31",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331931",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "JAMES KNAPP",
+"position": "director",
+"uid": null,
+"start_date": "1991-12-31",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331933",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "HECTOR UISDEAN MACKENZIE",
+"position": "director",
+"uid": null,
+"start_date": "1995-09-08",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331935",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "WILLIAM MORRIS",
+"position": "director",
+"uid": null,
+"start_date": "1992-03-12",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331937",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "MICHAEL DAVID RIX",
+"position": "director",
+"uid": null,
+"start_date": "1999-02-23",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331939",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "ARTHUR SCARGILL",
+"position": "director",
+"uid": null,
+"start_date": "1991-12-31",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331941",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "BARBARA SWITZER",
+"position": "director",
+"uid": null,
+"start_date": "1991-12-31",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331943",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+},
+{
+ "id": 3.4332e+07,
+"name": "THOMAS ANTHONY WATSON",
+"position": "director",
+"uid": null,
+"start_date": "2000-03-30",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/34331946",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/01453985" 
+} 
+] 
+]

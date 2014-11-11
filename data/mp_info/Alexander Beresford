@@ -1,0 +1,52 @@
+[
+ [
+ {
+ "id": 4.9076e+07,
+"name": "ALEXANDER PAUL BERESFORD",
+"position": "director",
+"uid": null,
+"start_date": "2010-11-01",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/49075505",
+"inactive": false,
+"industry_code": "UK SIC Codes 2007",
+"company_link": "https://api.opencorporates.com/companies/gb/06878292" 
+},
+{
+ "id": 4.9076e+07,
+"name": "JULIE CAROL BERESFORD",
+"position": "director",
+"uid": null,
+"start_date": "2009-06-23",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/49075506",
+"inactive": false,
+"industry_code": "UK SIC Codes 2007",
+"company_link": "https://api.opencorporates.com/companies/gb/06878292" 
+},
+{
+ "id": 4.9076e+07,
+"name": "JOHN PATRICK O'DONNELL",
+"position": "director",
+"uid": null,
+"start_date": "2009-04-15",
+"end_date": "2009-06-23",
+"opencorporates_url": "https://opencorporates.com/officers/49075508",
+"inactive": false,
+"industry_code": "UK SIC Codes 2007",
+"company_link": "https://api.opencorporates.com/companies/gb/06878292" 
+},
+{
+ "id": 1.0232e+08,
+"name": " JPCORS LIMITED",
+"position": "secretary",
+"uid": null,
+"start_date": "2009-04-15",
+"end_date": "2009-06-23",
+"opencorporates_url": "https://opencorporates.com/officers/102315207",
+"inactive": false,
+"industry_code": "UK SIC Codes 2007",
+"company_link": "https://api.opencorporates.com/companies/gb/06878292" 
+} 
+] 
+]

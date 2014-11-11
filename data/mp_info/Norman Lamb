@@ -1,0 +1,88 @@
+[
+ [
+ {
+ "id": 3.7224e+07,
+"name": "NIGEL CLIFFORD LUBBOCK",
+"position": "secretary",
+"uid": null,
+"start_date": "2000-01-05",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/37224357",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/02958850" 
+},
+{
+ "id": 3.7224e+07,
+"name": "ANDREW HIRST BAKER",
+"position": "director",
+"uid": null,
+"start_date": "1994-09-06",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/37224359",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/02958850" 
+},
+{
+ "id": 3.7224e+07,
+"name": "STEPHEN KENNETH DRAKE",
+"position": "director",
+"uid": null,
+"start_date": "1995-01-11",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/37224363",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/02958850" 
+},
+{
+ "id": 3.7224e+07,
+"name": "PHILIP HYDE",
+"position": "director",
+"uid": null,
+"start_date": "1994-09-06",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/37224365",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/02958850" 
+},
+{
+ "id": 3.7224e+07,
+"name": "NORMAN PETER LAMB",
+"position": "director",
+"uid": null,
+"start_date": "1994-09-06",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/37224367",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/02958850" 
+},
+{
+ "id": 3.7224e+07,
+"name": "NIGEL CLIFFORD LUBBOCK",
+"position": "director",
+"uid": null,
+"start_date": "1994-08-15",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/37224369",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/02958850" 
+},
+{
+ "id": 3.7224e+07,
+"name": "MALCOLM GEORGE PLUMMER",
+"position": "director",
+"uid": null,
+"start_date": "1995-01-11",
+"end_date": null,
+"opencorporates_url": "https://opencorporates.com/officers/37224371",
+"inactive": true,
+"industry_code": "UK SIC Codes 2003",
+"company_link": "https://api.opencorporates.com/companies/gb/02958850" 
+} 
+] 
+]
